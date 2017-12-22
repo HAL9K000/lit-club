@@ -1,0 +1,7 @@
+#slideshow img {
+  width: 400px;
+  display: none;
+}
+#slideshow img.active {
+  display: block;
+}

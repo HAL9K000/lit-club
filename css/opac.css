@@ -1,0 +1,146 @@
+@font-face {
+  font-family: newyorker;
+  src:url(fonts/newyork.TTF);
+}
+@media only screen and (max-width:900px)
+{
+main
+{
+  position: relative;
+  top:18vh;
+}
+#Work
+{
+  display:inline-block;
+  width: 50vw; height: 50vw;
+  position: absolute;
+  left:24.5vw; top: 150px;
+}
+main  p
+{
+  display:inline-block;
+  width:99vw;
+  line-height:14px; text-align:center;
+  position:absolute;
+}
+
+main>p:first-child
+{
+  left:0vw; top:50px;
+  font-family:newyorker; font-size: 22px;
+  color: #d0a115c7; font-style: italic; font-variant: small-caps;
+  margin-bottom: 3vh; font-weight: bold;
+}
+main>p:last-child
+{
+    font-family:sans-serif;
+    left:9.5vw; top: 400px;
+    width:80vw; font-size:14px;
+}
+
+p>a
+{
+  color:#9e9b04;
+  text-decoration: none;
+}
+footer
+{
+  display:inline-block;
+  width:100vw; height:10vh;
+  position:relative;
+  top:90vh;
+  background-color:#000000;
+  color: #8a8c87; font-size:11.5px; font-family:newyorker;
+  text-align: center;
+}
+footer >p
+{
+  margin-top:1vh;
+}
+footer >p>span
+{
+  color: #8a8c87;
+  transition-property: all; transition-duration: 1s; transition-timing-function: ease-in;
+}
+footer >p>span:hover
+{
+  color: #d0a115c7;
+}
+footer>p>img
+{
+  width:18px; height:14px;
+}
+}
+
+
+@media only screen and (min-width:900px)
+{
+main
+{
+  position: relative;
+  top:10.5vw;
+}
+#Work
+{
+  display:inline-block;
+  width: 30vw; height: 55vh;
+  position: relative;
+  left:35vw; top: 1vh;
+}
+main>p
+{
+  display:inline-block;
+  width:99vw; height:2vh;
+  line-height:2vh; text-align:center;
+  position:absolute;
+}
+main>p:first-child
+{
+  left:0vw; top:-3vh;
+  font-family:newyorker; font-size: 28px;
+  color: #d0a115c7; font-style: italic; font-variant: small-caps;
+  margin-bottom: 3vh; font-weight: bold;
+}
+main>p:last-child
+{
+  font-family: verdana; font-size:17px;margin-top:-15vh;
+  color:#000000; font-variant: normal;font-weight: normal;
+  top:75vh;left:0vw;
+}
+main>p>a
+{
+  color:#9e9b04;
+  text-decoration: none;
+}
+main>p>a:hover, main>p>a:focus
+{
+  color:#c7c312;
+}
+footer
+{
+  display:inline-block;
+  width:99vw; height:8vh;
+  position:relative;
+  top:38vh;
+  background-color:#000000;
+  color: #8a8c87; font-size:12.5px; font-family:newyorker;
+  text-align: center;
+}
+footer >p
+{
+  margin-top:1vh;
+}
+footer >p>span
+{
+  color: #8a8c87;
+  transition-property: all; transition-duration: 1s; transition-timing-function: ease-in;
+}
+footer >p>span:hover
+{
+  color: #d0a115c7;
+}
+footer>p>img
+{
+  width:18px; height:14px;
+}
+}
