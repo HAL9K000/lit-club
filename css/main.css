@@ -11,7 +11,7 @@
     top:100vh; height:2000px;
   }
   body
-  {  background-image:url(../imago/cover.jpg);
+  {  background-image:url(../imago/coveralt.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: cover; background-position: center center;
     z-index:-1;
