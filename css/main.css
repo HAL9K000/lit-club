@@ -12,7 +12,7 @@
   }
   body
   {  background-image:url(../imago/coveralt.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-repeat: no-repeat; background-size: cover; background-position: center center;
     z-index:-1;
   }
