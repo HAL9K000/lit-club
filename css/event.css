@@ -2,114 +2,23 @@
   font-family: newyorker;
   src:url(../fonts/newyork.TTF);
 }
-@media only screen and (max-width:1920px)
+@media only screen and (min-width:900px)
 {
   html, body {
       max-width: 100%;
 
   }
-header
-{
-    width: 100vw; height:12.5vh; background-color:#000000; box-sizing: border-box;
-    z-index:10000; text-align:center; position:fixed; clear:both; text-transform: uppercase;
-    /*padding:2vh,5vw,2vh,5vw;*/
 
-}
-
-#main-menu {
-  position: absolute;
-  right: 20px;
-  top: 50%;
-  transform: translateY(-50%);
-}
 .slideshow img {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
 }
 
-#s1, h1, #s2
-{
-  display:inline-block; float:left;
-}
-#s1
-{
-  width: 7.5vw; height: 7.5vh; padding-top: 2.5vh; padding-right: 2px; padding-bottom: 2vh;
-  border-style: hidden; margin-right:1vw; padding-left: 20px;
-}
-#s1 > img
-{
-  width: 7.5vw; height: 7.5vh;
-}
-header >h1
-{
-  font-family:newyorker; color:#ae8610; font-size: 24.5px; font-style: oblique;
-  text-align:center; border:hidden; width:25vw; height:6vh; margin-left:1vw;
-  margin-right:1vw; padding-top: 4.5vh; padding-bottom: 2vh;
 
-}
-#s2
-{
-  width: 75px; height: 60px; padding-top: 2.4vh; padding-bottom: 2vh;
-  border-style: hidden; margin-right:12.5px; margin-left: 1vw;
-}
-#s2 > img
-{
-  width: 75px; height: 60px;
-}
-a > img
-{
-  width: 2.0vw; height: 4.5vh;
-}
-nav >a
-{
-  position: relative;
-  display:inline-block; float:left; box-sizing: content-box;
-  width: 60px; height:14px;  margin-right:1.5vw;margin-left: 1.5vw;
-  font-family:newyorker; font-size:14px; color: #ffffff;
-  transition: all,transform; transition-duration: 0.3s; transition-timing-function: ease-in;
-}
-nav >a:last-child
-{
-  margin: 0;
-}
-nav >a:last-child>img
-{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  padding: 0; width: 40px; height: 40px;
-  border-style: solid; border-color:#ffffff; border-radius: 50%; border-width: 1.5px;
-
-}
-
-nav >a:first-child
-{
-  margin-left:20vw;
-}
-
-
-nav >a:hover, nav >a:focus
-{
-  color: #d0a115c7;
-  transform:translateY(-0.25vh);
-  border-color: #d0a115c7;
-}
-
-
-.active
-{
-  color: #d0a115c7;
-}
-.active:hover, .active:focus
-{
-  transform:translateY(0.0vh);
-}
 main, footer
 {
-  position:relative; top:12.5vh;
+  position:relative; top:90px;
 }
 
 #submenu
