@@ -13,7 +13,7 @@
   body
   {  background-image:url(../imago/coveralt.jpg);
     background-attachment: fixed;
-    background-repeat: no-repeat; background-size: cover; background-position: center center;
+    background-repeat: no-repeat; background-size: 100vh,100vw; background-position: center center;
     z-index:-1;
   }
   .left
