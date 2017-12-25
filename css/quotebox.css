@@ -63,14 +63,10 @@ figcaption
 {
   font-family: newyorker; font-size: 22px; text-transform: capitalize;
 }
-a[href="abc"]
+a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]
 {
   text-decoration:none;
   color: #9e9b04;
-}
-a[href="abc"]:hover, a[href="abc"]:focus
-{
-  color: #c7c312;
 }
 section> div
 {
@@ -346,12 +342,12 @@ figcaption
   left:0.1vw; top: 84vh;
   margin-top:5vh;
 }
-a[href="abc"]
+a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]
 {
   text-decoration:none;
   color: #9e9b04;
 }
-a[href="abc"]:hover, a[href="abc"]:focus
+a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]:hover, a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]:focus
 {
   color: #c7c312;
 }

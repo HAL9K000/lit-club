@@ -211,6 +211,12 @@
     font-size: 16.5px; line-height: 19.5px;
   }
 
+  #d1 a
+  {
+    text-decoration:none;
+    color: #9e9b04;
+  }
+
   .Styled
   {
     font-family: newyorker; font-size: 22px; text-transform: capitalize;
@@ -440,6 +446,16 @@ img.curr, img.curr1, img.curr2
   font-size: 16.5px; line-height: 19.5px;
 }
 
+#d1 a
+{
+  text-decoration:none;
+  color: #9e9b04;
+}
+
+#d1 a:hover, #d1 a:focus
+{
+  color: #c7c312;
+}
 .Styled
 {
   font-family:newyorker;
