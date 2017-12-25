@@ -15,7 +15,7 @@ header
   display:inline-block; position:fixed;
   width:100vw; height: 18vh; top:0vh; left:0vw;
   background-color:#000000; clear:both; text-transform: uppercase;
-  z-index:1;
+  z-index:10000;
 }
 #s1alt
 {

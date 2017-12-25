@@ -55,6 +55,10 @@
     margin-bottom: 2vh; font-family:verdana, arial; text-align: justify;
     font-size: 16.5px; line-height: 19.5px;
   }
+  #d1 > section >p::first-letter, h6::first-letter
+  {
+    font-family: newyorker; font-size: 22px; text-transform: capitalize;
+  }
 
   #d2
   {
