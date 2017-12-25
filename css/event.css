@@ -14,7 +14,7 @@
     background-image:url(../imago/cover1alt.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: 100% auto;
-    background-position: center center;
+    background-position: top center;
     z-index:-1;
   }
   .slideshow img
