@@ -21,13 +21,13 @@ header
 {
   position:absolute; display:inline-block;
   visibility: visible;
-  width:135px; height:75px;
-  left:2vw; top:0.5vh;
+  width:125px; height:65px;
+  left:3vw; top:5px;
   margin-right:10vw;
 }
 #s1alt img
 {
-  width:135px; height:75px; visibility: visible;
+  width:125px; height:65px; visibility: visible;
 }
 #s1
 {
@@ -35,7 +35,7 @@ header
 }
 #s2
 {
-  position:absolute; top: 15px;
+  position:absolute; top: 10px;
   left: 200px; width: 75px; height: 60px;
 }
 #s2 img
