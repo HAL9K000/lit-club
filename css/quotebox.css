@@ -536,8 +536,9 @@ section > div >p
 }
 #d7> p
 {
+  display:inline-block; width:99vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
-  text-align:center; position:absolute; left:35vw; top: 195px;
+  text-align:center; position:absolute; left:0vw; top: 195px;
 }
 
 
