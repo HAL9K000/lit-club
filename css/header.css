@@ -201,7 +201,7 @@ nav >a:first-child
 
 nav >a:hover, nav >a:focus
 {
-  color: #d0a115c7;
+  color: #ae8610;
   transform:translateY(-0.25vh);
   border-color: #d0a115c7;
 }
@@ -209,7 +209,7 @@ nav >a:hover, nav >a:focus
 
 .active
 {
-  color: #d0a115c7;
+  color: #ae8610;
 }
 .active:hover, .active:focus
 {
