@@ -21,13 +21,13 @@ header
 {
   position:absolute; display:inline-block;
   visibility: visible;
-  width:165px; height:100px;
-  left:0vw; top:-0.5vh;
-  margin-right:10vw; z-index:1;
+  width:135px; height:75px;
+  left:2vw; top:0.5vh;
+  margin-right:10vw;
 }
 #s1alt img
 {
-  width:165px; height:100px; visibility: visible;
+  width:135px; height:75px; visibility: visible;
 }
 #s1
 {
