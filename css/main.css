@@ -22,8 +22,8 @@
   }
   #BackgroundImg
   {
-    position:relative; top:-30vh; opacity:0.4;
-    display:inline-block; height: 160px; left: 33vw; width:180px;
+    position:relative; top:-35vh; opacity:0.4;
+    display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
     background-image:url(../imago/icon.png); background-size:150px, 100px;
     z-index:-0.25;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@
   {
     position: relative; background-color: #ffffff;
     top: 0vh; clear:both; display: inline-block;
-    width:100.07%; height: 2000px;
+    width:100.07%; height: 2100px;
   }
   #d1
   {
@@ -146,7 +146,7 @@
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:120vh;
+    top:135vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;

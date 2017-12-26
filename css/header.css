@@ -3,7 +3,101 @@
   font-family: newyorker;
   src:url(../fonts/newyork.TTF);
 }
-@media only screen and (max-width:900px)
+@media only screen and (max-width:321px)
+{
+html, body
+{
+  max-width: 100%;
+
+}
+header
+{
+  display:inline-block; position:fixed;
+  width:100vw; height: 110px; top:0vh; left:0vw;
+  background-color:#000000; clear:both; text-transform: uppercase;
+  z-index:10000;
+}
+#s1alt
+{
+  position:absolute; display:inline-block;
+  visibility: visible;
+  width:125px; height:65px;
+  left:3vw; top:5px;
+  margin-right:10vw;
+}
+#s1alt img
+{
+  width:125px; height:65px; visibility: visible;
+}
+#s1
+{
+  display:none ;
+}
+#s2
+{
+  position:absolute; top: 10px;
+  left: 200px; width: 75px; height: 60px;
+}
+#s2 img
+{
+  width: 75px; height: 60px;
+}
+h1
+{ /*display:inline-block;
+  float:left; margin-top:3vh;margin-left:20vw;
+  width: 200px; height:25px;
+  font-family:newyorker, Garamond; color:#ae8610; font-size: 20.5px;
+  font-style: oblique; text-align:center; border:hidden;*/
+  display:none;
+}
+#h1
+{
+  display:none ;
+}
+#h1 img
+{
+  display:none;
+}
+#main-menu
+{
+  position:absolute;
+  right:3vw; top: 75px;
+  display:inline-block;
+  width:94vw;
+}
+#main-menu a
+{
+  display:inline-block;
+  box-sizing: border-box;
+  width: 60px; padding-top:11.5px; padding-bottom:11.5px;
+  margin-right:5px; /*border-style: solid; border-radius: 5px; border-color: #ffffff;*/
+  font-family:newyorker; font-size:10px; color: #ffffff; /*border-width: 1px;*/
+  text-align: center; text-decoration: none; /*background-color: #373631e8;*/
+
+}
+#main-menu a:first-child
+{
+  margin-left:0vw;
+}
+#main-menu a:last-child
+{
+  border:none; width:0.5px; height:0.5px; margin-right:0px; background-color: #000000;
+  display:none;
+}
+#main-menu a:last-child>img
+{
+  position: absolute;
+  top: -20px; right:-2vw;
+  padding: 0; width: 30px; height: 30px;
+  border-style: solid; border-color:#ffffff; border-radius: 50%; border-width: 1.5px;
+
+}
+.active
+{
+  color:#ae8610 !important;
+}
+}
+@media only screen and (min-width:321px) and (max-width:900px)
 {
 html, body
 {
