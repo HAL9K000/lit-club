@@ -7,7 +7,7 @@
 {
   main
   {
-    position:relative; top:100vh; height:4530px;
+    position:relative; top:100vh; height:5200px;
   }
   body
   {
@@ -73,7 +73,7 @@
   }
   #d1
   {
-    width:100.07%; height:4530px; background-color: #ffffff;
+    width:100.07%; height:5200px; background-color: #ffffff;
     position:absolute; top:30vh;
   }
   #d1> img
@@ -190,14 +190,18 @@
     position:absolute;
     top:350px;
   }
-  #d1s04 p
+  #d1s04 p, #d1s04 blockquote
   {
     margin-bottom: 2vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
+  #d1s04 blockquote
+  {
+    font-style: italic;
+  }
   #d1s05
   {
-    position: absolute;left:2.5vw; top:3800px;
+    position: absolute;left:2.5vw; top:4450px;
     display:inline-block; width:95vw;
   }
   #d1s05 >div
@@ -424,10 +428,14 @@ img.curr, img.curr1, img.curr2
   position:absolute;
   top:680px;
 }
-#d1s04 p
+#d1s04 p, #d1s04 blockquote
 {
   margin-bottom: 2vh; text-align:justify; font-family: verdana;
   font-size: 16.5px; line-height: 19.5px;
+}
+#d1s04 blockquote
+{
+  font-style: italic;
 }
 
 #d1s05
