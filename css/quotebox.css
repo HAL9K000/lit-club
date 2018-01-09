@@ -46,7 +46,7 @@ figure >img
 {
   position:absolute; display:inline-block;
   opacity:0.2; left:5vw;
-  width:80vw;
+  width:80vw; height:300px;
 }
 figcaption
 {
