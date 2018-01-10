@@ -225,6 +225,10 @@
   {
     font-family: newyorker; font-size: 22px; text-transform: capitalize;
   }
+  .ital
+  {
+    font-style:italic;
+  }
   footer
   {
     display:inline-block;
@@ -469,7 +473,10 @@ img.curr, img.curr1, img.curr2
   font-family:newyorker;
   font-size:22px;
 }
-
+.ital
+{
+  font-style:italic;
+}
 footer
 {
   display:inline-block;
