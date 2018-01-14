@@ -33,7 +33,7 @@ header
 {
   display:none ;
 }
-#s2
+/*#s2
 {
   position:absolute; top: 10px;
   left: 200px; width: 75px; height: 60px;
@@ -41,6 +41,15 @@ header
 #s2 img
 {
   width: 75px; height: 60px;
+}*/
+#s2
+{
+  position:absolute; top: 15px;
+  left: 200px; width: 55px; height: 50px;
+}
+#s2 img
+{
+  width: 55px; height: 50px;
 }
 h1
 { /*display:inline-block;
@@ -127,7 +136,7 @@ header
 {
   display:none ;
 }
-#s2
+/*#s2
 {
   position:absolute; top: 10px;
   left: 200px; width: 75px; height: 60px;
@@ -135,6 +144,15 @@ header
 #s2 img
 {
   width: 75px; height: 60px;
+}*/
+#s2
+{
+  position:absolute; top: 15px;
+  left: 200px; width: 55px; height: 50px;
+}
+#s2 img
+{
+  width: 55px; height: 50px;
 }
 h1
 { /*display:inline-block;
@@ -255,9 +273,9 @@ header >h1
   width: 75px; height: 60px; padding-top: 18px; padding-bottom: 2vh;
   border-style: hidden; margin-right:12.5px; margin-left: 1vw;
 }
-#s2 > img
+#s2  img
 {
-  width: 75px; height: 60px;
+  width: 65px !important; height: 60px !important;
 }
 a > img
 {
