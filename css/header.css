@@ -33,23 +33,14 @@ header
 {
   display:none ;
 }
-/*#s2
+#s2
 {
-  position:absolute; top: 10px;
+  position:absolute; top: 15px;
   left: 200px; width: 75px; height: 60px;
 }
 #s2 img
 {
   width: 75px; height: 60px;
-}*/
-#s2
-{
-  position:absolute; top: 15px;
-  left: 200px; width: 55px; height: 50px;
-}
-#s2 img
-{
-  width: 55px; height: 50px;
 }
 h1
 { /*display:inline-block;
@@ -148,11 +139,11 @@ header
 #s2
 {
   position:absolute; top: 15px;
-  left: 200px; width: 55px; height: 50px;
+  left: 200px; width: 75px; height: 60px;
 }
 #s2 img
 {
-  width: 55px; height: 50px;
+  width: 75px; height: 60px;
 }
 h1
 { /*display:inline-block;
@@ -275,7 +266,7 @@ header >h1
 }
 #s2  img
 {
-  width: 65px !important; height: 60px !important;
+  width: 75px !important; height: 60px !important;
 }
 a > img
 {
