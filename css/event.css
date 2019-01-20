@@ -65,15 +65,15 @@
   }
   #BackgroundImg
   {
-    position:relative; top:-55vh; opacity:0.4;
+    position:relative; top:-55vh; opacity:0.5;
     display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
-    background-image:url(../imago/icon.png); background-size:150px, 100px;
+    background-image:url(../imago/anonymous.png); background-size:150px, 100px;
     z-index:-0.25;
     background-repeat: no-repeat;
   }
   #d1
   {
-    width:100.07%; height:5200px; background-color: #ffffff;
+    width:100.07%; height:5650px; background-color: #ffffff;
     position:absolute; top:30vh;
   }
   #d1> img
@@ -201,7 +201,7 @@
   }
   #d1s05
   {
-    position: absolute;left:2.5vw; top:4450px;
+    position: absolute;left:2.5vw; top:4800px;
     display:inline-block; width:95vw;
   }
   #d1s05 >div
@@ -234,7 +234,7 @@
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:125vh;
+    top:185vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
@@ -314,7 +314,7 @@ body
 {
   position: relative; background-color: #ffffff;
   top: 90.5vh; clear:both; display: inline-block;
-  width:99vw; height: 4550px; z-index:0;
+  width:99vw; height: 4600px; z-index:0;
 }
 #d1> img
 {
@@ -444,7 +444,7 @@ img.curr, img.curr1, img.curr2
 
 #d1s05
 {
-  position: absolute;left:9.5vw; top:3650px;
+  position: absolute;left:9.5vw; top:3700px;
   display:inline-block; width:80vw;
 }
 #d1s05 >div
