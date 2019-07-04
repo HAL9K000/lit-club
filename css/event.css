@@ -63,6 +63,32 @@
   {
     top:10vh; right:0vw;
   }
+  #UpTownFunk
+  {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 20px; /* Place the button 35px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 5px; /* Some padding */
+
+    color: #ffffff; background-color: #000000;
+    width: 60px; height:55px;
+    font-family: sans-serif;
+    font-size:30px; border:none; border-radius: 5px;
+    opacity: 0.75;
+    transition-property: opacity, color;
+    transition-duration: 0.5s; transition-delay: 0.2s;
+    transition-timing-function: linear;
+  }
+
+  #UpTownFunk:hover, #UpTownFunk:focus
+  {
+    color: #ae8610;
+    opacity: 0.85;
+  }
   #BackgroundImg
   {
     position:relative; top:-55vh; opacity:0.5;
@@ -310,6 +336,34 @@ body
   background-repeat: no-repeat; background-size: cover; background-position: center center;
   z-index:-1;
 }
+
+#UpTownFunk
+{
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 35px; /* Place the button 35px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+
+  color: #ffffff; background-color: #000000;
+  width:100px; height:100px;
+  font-family: sans-serif;
+  font-size:35px; border:none; border-radius: 5px;
+  opacity: 0.85;
+  transition-property: opacity, color;
+  transition-duration: 0.5s; transition-delay: 0.2s;
+  transition-timing-function: linear;
+}
+
+#UpTownFunk:hover, #UpTownFunk:focus
+{
+  color: #ae8610;
+  opacity: 0.95;
+}
+
 #d1
 {
   position: relative; background-color: #ffffff;
