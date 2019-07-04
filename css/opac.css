@@ -48,10 +48,10 @@
 
  #BackgroundImg
  {
-   position:relative; top:-50vh; opacity:0.7;
+   position:absolute; opacity:0.7;
    display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
    background-image:url(../imago/icon.png); background-size:150px, 100px;
-   z-index:-0.25;
+   z-index:-0.25; top:-55vh;
    background-repeat: no-repeat;
  }
  #d1
