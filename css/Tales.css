@@ -41,7 +41,7 @@
   #d1
   {
     width:100.07%; height:5650px; background-color: #ffffff;
-    position:absolute; top:10vh;
+    position:absolute; top:1vh;
   }
   
   #d1 h3
@@ -60,6 +60,15 @@
     font-family:newyorker; font-size: 32px;
     color: #d0a115c7; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:40px;
+  }
+  
+  #d1 winners
+  {
+    position: absolute;
+    display: inline-block; width:95vw;
+    font-size: 20px;
+    color: #d0a115c7; 
+    text-align:center; margin-top:15vh; margin-bottom:70px;
   }
   
   #d2
@@ -140,10 +149,6 @@
   {
     text-decoration:none;
     color: #9e9b04;
-  }
-  .Italic
-  {
-    font-family: newyorker; font-size: 16.5px; font-style: italic;
   }
   .Styled
   {
@@ -245,6 +250,15 @@ main, footer
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:40px;
   }
 
+  #d1 winners
+  {
+    position: absolute;
+    display: inline-block; width:95vw;
+    font-size: 20px;
+    color: #d0a115c7; 
+    text-align:center; margin-top:15vh; margin-bottom:70px;
+  }
+  
 #d2
   {
     position: absolute; left:2.5vw; top:300px;
