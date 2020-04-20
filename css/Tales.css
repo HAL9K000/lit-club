@@ -141,7 +141,10 @@
     text-decoration:none;
     color: #9e9b04;
   }
-
+  .Italic
+  {
+    font-family: newyorker; font-size: 16.5px; font-style: italic;
+  }
   .Styled
   {
     font-family: newyorker; font-size: 22px; text-transform: capitalize;
@@ -321,7 +324,10 @@ main, footer
     text-decoration:none;
     color: #9e9b04;
   }
-
+  .Italic
+  {
+    font-family: newyorker; font-size: 16.5px; font-style: italic;
+  }
   .Styled
   {
     font-family: newyorker; font-size: 22px; text-transform: capitalize;
