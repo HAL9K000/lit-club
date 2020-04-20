@@ -30,7 +30,7 @@
   }
   #tempmsg
   {
-    display:none;
+    display:none; font-family:newyorker; color: #d0a115c7; font-style: italic;
   }
   #cont
   {
