@@ -76,14 +76,7 @@
     color: #ae8610;
     opacity: 0.85;
   }
-  #BackgroundImg
-  {
-    position:relative; top:-55vh; opacity:0.5;
-    display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
-    background-image:url(../imago/icon.png); background-size:150px, 100px;
-    z-index:-0.25;
-    background-repeat: no-repeat;
-  }
+ 
   #d1
   {
     width:100.07%; height:5650px; background-color: #ffffff;
