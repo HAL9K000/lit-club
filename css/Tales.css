@@ -158,6 +158,11 @@
   {
     font-style:italic;
   }
+  .bold
+  {
+    font-weight:bold;
+  }
+  
   footer
   {
     display:inline-block;
@@ -349,6 +354,10 @@ main, footer
   .ital
   {
     font-style:italic;
+  }
+  .bold
+  {
+    font-weight:bold;
   }
   footer
   {
