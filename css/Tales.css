@@ -59,7 +59,7 @@
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 32px;
     color: #d0a115c7; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:15vh; margin-bottom:40px;
+    text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:40px;
   }
   
   #d2
@@ -239,7 +239,7 @@ main, footer
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 28px;
     color: #d0a115c7; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:15vh; margin-bottom:40px;
+    text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:40px;
   }
 
 #d2
