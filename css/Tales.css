@@ -41,7 +41,7 @@
   #d1
   {
     width:100.07%; height:5650px; background-color: #ffffff;
-    position:absolute; top:60vh;
+    position:absolute; top:10vh;
   }
   
   #d1 h3
@@ -57,9 +57,9 @@
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 28px;
+    font-family:newyorker; font-size: 32px;
     color: #d0a115c7; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:2vh; margin-bottom:30px;
+    text-align:center; font-weight: bold; margin-top:5vh; margin-bottom:30px;
   }
   
   #d2
