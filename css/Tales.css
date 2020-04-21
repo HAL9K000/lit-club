@@ -298,7 +298,7 @@ main, footer
   #d2 >div
   {
     position:absolute;
-    top:250px;
+    top:300px;
   }
   #d2 p
   {
@@ -307,7 +307,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:2.5vw; top:2750px;
+    position: absolute; left:2.5vw; top:1750px;
     display:inline-block; width:95vw;
   }
   
@@ -322,7 +322,7 @@ main, footer
   #d3 >div
   {
     position:absolute;
-    top:350px;
+    top:300px;
   }
   #d3 p
   {
@@ -332,7 +332,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:2.5vw; top:4800px;
+    position: absolute;left:2.5vw; top:4000px;
     display:inline-block; width:95vw;
   }
   #d4 >div
@@ -372,7 +372,7 @@ main, footer
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:200vh;
+    top:300vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
