@@ -226,7 +226,7 @@ main, footer
 #d1
 {
   position: relative; background-color: #ffffff;
-  top: 90.5vh; clear:both; display: inline-block;
+  top: 10vh; clear:both; display: inline-block;
   width:99vw; height: 4600px; z-index:0;
 }
   
