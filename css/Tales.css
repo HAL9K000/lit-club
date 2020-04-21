@@ -310,8 +310,8 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:2.5vw; top:2200px;
-    display:inline-block; width:95vw;
+    position: absolute; left:5vw; top:2500px;
+    display:inline-block; width:85vw;
   }
   
   #d3> img
@@ -325,7 +325,7 @@ main, footer
   #d3 >div
   {
     position:absolute;
-    top:300px;
+    top:400px;
   }
   #d3 p
   {
