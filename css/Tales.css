@@ -319,7 +319,7 @@ main, footer
     position: absolute;
     display:block;
     width:60vw;
-    left:20vw; top:30px;
+    left:18vw; top:50px;
   }
   
   #d3 >div
@@ -338,6 +338,15 @@ main, footer
     position: absolute;left:2.5vw; top:3500px;
     display:inline-block; width:95vw;
   }
+  
+  #d4> img
+  {
+    position: absolute;
+    display:block;
+    width:60vw;
+    left:18vw; top:50px;
+  }
+  
   #d4 >div
   {
     position:absolute;
