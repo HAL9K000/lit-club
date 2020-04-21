@@ -191,7 +191,11 @@ body
   color:#d0a115c7; background-color: #000000; opacity: 0.75;
   font-size:35px; font-family: sans-serif;
 }
-
+#tempmsg span>a
+{
+  font-weight:normal;
+  color:#9e9b04; text-decoration: none;
+}
 #d1
 {
   position: relative; background-color: #ffffff;
