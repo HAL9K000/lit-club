@@ -96,7 +96,7 @@ main, footer
   
 #d2
   {
-    position: absolute; left:5vw; top:600px;
+    position: absolute; left:5vw; top:800px;
     display:inline-block; width:85vw;
   }
   
@@ -114,7 +114,7 @@ main, footer
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 40px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:250px; margin-bottom:30px;
+    text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
   
   #d2 >div
