@@ -277,7 +277,7 @@ main, footer
   
 #d2
   {
-    position: absolute; left:2.5vw; top:550px;
+    position: absolute; left:2.5vw; top:500px;
     display:inline-block; width:95vw;
   }
   
@@ -310,7 +310,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:2.5vw; top:1800px;
+    position: absolute; left:2.5vw; top:1850px;
     display:inline-block; width:95vw;
   }
   
