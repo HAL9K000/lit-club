@@ -243,7 +243,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 100px;
+    font-family:newyorker; font-size: 85px;
     color: #d0a115c7; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:5vh; margin-bottom:30px;
   }
@@ -254,7 +254,7 @@ main, footer
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 28px;
     color: #d0a115c7;
-    text-align:center; margin-top:100vh; margin-bottom:30px;
+    text-align:center; top:100vh;
   }
   
   #d1 p2
