@@ -248,7 +248,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:5vh; margin-bottom:30px;
   }
 
-  #d1 p1
+  #d1 >p1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -257,7 +257,7 @@ main, footer
     text-align:center; margin-top:10vh; margin-bottom:30px;
   }
   
-  #d1 p2
+  #d1 >p2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -266,7 +266,7 @@ main, footer
     text-align:center; margin-top:12.5vh; margin-bottom:30px;
   }
   
-  #d1 p3
+  #d1 >p3
   {
     position: absolute;
     display: inline-block; width:95vw;
