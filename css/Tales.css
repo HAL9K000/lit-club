@@ -243,7 +243,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 50px;
+    font-family:newyorker; font-size: 100px;
     color: #d0a115c7; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:5vh; margin-bottom:30px;
   }
@@ -290,9 +290,9 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 28px;
+    font-family:newyorker; font-size: 40px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
+    text-align:center; font-weight: bold; margin-top:210px; margin-bottom:30px;
   }
   
   #d2 >div
@@ -307,7 +307,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:2.5vw; top:1800px;
+    position: absolute; left:2.5vw; top:1000px;
     display:inline-block; width:95vw;
   }
   
@@ -357,7 +357,7 @@ main, footer
   }
   .Styled
   {
-    font-family: newyorker; font-size: 22px; text-transform: capitalize;
+    font-family: newyorker; font-size: 28px; text-transform: capitalize;
   }
   .ital
   {
@@ -372,7 +372,7 @@ main, footer
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:500vh;
+    top:400vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
