@@ -307,7 +307,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:2.5vw; top:2000px;
+    position: absolute; left:2.5vw; top:1800px;
     display:inline-block; width:95vw;
   }
   
@@ -332,7 +332,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:2.5vw; top:4000px;
+    position: absolute;left:2.5vw; top:3500px;
     display:inline-block; width:95vw;
   }
   #d4 >div
