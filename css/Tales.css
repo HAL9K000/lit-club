@@ -335,8 +335,8 @@ main, footer
   
   #d4
   {
-    position: absolute;left:2.5vw; top:3800px;
-    display:inline-block; width:95vw;
+    position: absolute;left:5vw; top:4000px;
+    display:inline-block; width:85vw;
   }
   
   #d4> img
@@ -350,11 +350,11 @@ main, footer
   #d4 >div
   {
     position:absolute;
-    top:330px;
+    top:400px;
   }
   #d4 p
   {
-    margin-bottom: 2vh; text-align:justify; font-family: verdana;
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
 
