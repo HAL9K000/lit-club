@@ -53,7 +53,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 35px;
+    font-family:newyorker; font-size: 30px;
     color: #d0a115c7; font-style: italic;
     text-align:center; margin-top:1vh; margin-bottom:30px;
   }
@@ -62,7 +62,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 85px;
+    font-family:newyorker; font-size: 65px;
     color: #d0a115c7; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
