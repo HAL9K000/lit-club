@@ -248,7 +248,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:5vh; margin-bottom:30px;
   }
 
-  #d1 >p1
+  #d1 p1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -257,22 +257,19 @@ main, footer
     text-align:center; margin-top:10vh; margin-bottom:30px;
   }
   
-  #d1 >p2
+  #d1 p2
   {
-    position: absolute;
-    display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 28px;
-    color: #d0a115c7;
-    text-align:center; margin-top:12.5vh; margin-bottom:30px;
+    margin-bottom: 5vh; text-align:justify; font-family: newyorker;
+    font-size: 20px; line-height: 19.5px;
   }
   
-  #d1 >p3
+  #d1 p3
   {
     position: absolute;
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 28px;
     color: #d0a115c7;
-    text-align:center; margin-top:15vh; margin-bottom:30px;
+    text-align:center; margin-top:10vh; margin-bottom:30px;
   }
   
 #d2
@@ -375,7 +372,7 @@ main, footer
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:185vh;
+    top:200vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
