@@ -188,17 +188,10 @@ body
   width:50vw; height:100px; left:25vw;
   top: 30vh; z-index:-0.5;
   text-align:center; padding-top:45px; border-radius: 5px;
-  color:#d0a115c7; background-color: #000000; opacity: 0.75;
+  color:#ffffff; background-color: #000000; opacity: 0.75;
   font-size:35px; font-family: sans-serif;
 }
-#tempmsg>span>a
-{
-  font-weight:normal;
-  color:#9e9b04; text-decoration: none;
-}
-#tempmsg>span>a:visited
-{
-  color:#9e9b04;
+
 #d1
 {
   position: relative; background-color: #ffffff;
