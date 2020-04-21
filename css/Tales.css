@@ -305,7 +305,7 @@ main, footer
   }
   #d2 p
   {
-    margin-bottom: 2vh; text-align:justify; font-family: verdana;
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
   #d3
@@ -329,13 +329,13 @@ main, footer
   }
   #d3 p
   {
-    margin-bottom: 2vh; text-align:justify; font-family: verdana;
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
   
   #d4
   {
-    position: absolute;left:5vw; top:4000px;
+    position: absolute;left:5vw; top:4150px;
     display:inline-block; width:85vw;
   }
   
