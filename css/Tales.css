@@ -112,7 +112,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 40px;
+    font-family:newyorker; font-size: 32px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
