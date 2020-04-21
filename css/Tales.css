@@ -72,7 +72,7 @@ main, footer
     position: absolute;
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 28px;
-    color: #d0a115c7;
+    color: #d0a115c7; text-decoration: underline;
     text-align:center; top:50vh;
   }
   
