@@ -245,10 +245,10 @@ main, footer
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 85px;
     color: #d0a115c7; font-variant: small-caps;
-    text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:30px;
+    text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
 
-  #d1 p.p1
+  #d1 p.ex1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -257,13 +257,16 @@ main, footer
     text-align:center; top:100vh;
   }
   
-  #d1 p2
+  #d1 p.ex2
   {
-    margin-bottom: 5vh; text-align:justify; font-family: newyorker;
-    font-size: 20px; line-height: 19.5px;
+    position: absolute;
+    display: inline-block; width:95vw;
+    font-family:newyorker; font-size: 28px;
+    color: #d0a115c7;
+    text-align:center; margin-top:10vh; margin-bottom:30px;
   }
   
-  #d1 p3
+  #d1 p.ex3
   {
     position: absolute;
     display: inline-block; width:95vw;
