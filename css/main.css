@@ -22,7 +22,7 @@
   }
   #BackgroundImg
   {
-    position:relative; top:-35vh; opacity:0.5;
+    position:relative; top:-35vh; opacity:0.4;
     display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
     background-image:url(../imago/icon.png); background-size:150px, 100px;
     z-index:-0.25;
@@ -30,7 +30,7 @@
   }
   #tempmsg
   {
-    display:none; font-family:newyorker; color: #d0a115c7; font-style: italic;
+    display:none;
   }
   #cont
   {
