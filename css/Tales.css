@@ -179,7 +179,7 @@ main, footer
   
   #d5
   {
-    position: absolute; left:5vw; top:2680vh;
+    position: absolute; left:5vw; top:2685vh;
     display:inline-block; width:85vw;
   }
   
@@ -187,7 +187,7 @@ main, footer
   {
     position: absolute;
     display: inline-block; width:95vw;
-    font-family:newyorker; font-size: 35px;
+    font-family:newyorker; font-size: 25px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
