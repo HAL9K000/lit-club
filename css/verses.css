@@ -386,7 +386,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:5vw; top:1580px;
+    position: absolute; left:5vw; top:1600px;
     display:inline-block; width:85vw;
   }
   
@@ -395,23 +395,23 @@ main, footer
     position: absolute;
     display:block;
     width:60vw;
-    left:18vw; top:50px;
+    left:18vw; top:30px;
   }
   
   #d3 >div
   {
     position:absolute;
-    top:360px;
+    top:350px;
   }
   #d3 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
   }
   
   #d4
   {
-    position: absolute;left:5vw; top:2000px;
+    position: absolute;left:5vw; top:2050px;
     display:inline-block; width:85vw;
   }
   
@@ -426,12 +426,12 @@ main, footer
   #d4 >div
   {
     position:absolute;
-    top:360px;
+    top:350px;
   }
   #d4 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
   }
   
   #d5
@@ -451,12 +451,12 @@ main, footer
   #d5 >div
   {
     position:absolute;
-    top:360px;
+    top:350px;
   }
   #d5 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
   }
   
   #d6
@@ -476,12 +476,12 @@ main, footer
   #d6 >div
   {
     position:absolute;
-    top:360px;
+    top:350px;
   }
   #d6 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
   }
   
   #d7
