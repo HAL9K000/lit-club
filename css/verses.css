@@ -172,7 +172,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:7.5vw; top:3300px;
+    position: absolute;left:7.5vw; top:3000px;
     display:inline-block; width:85vw;
   }
   
@@ -197,7 +197,7 @@ main, footer
   
   #d5
   {
-    position: absolute; left:7.5vw; top:4000px;
+    position: absolute; left:7.5vw; top:3900px;
     display:inline-block; width:85vw;
   }
   
@@ -222,7 +222,7 @@ main, footer
   
   #d6
   {
-    position: absolute; left:7.5vw; top:4500px;
+    position: absolute; left:7.5vw; top:4300px;
     display:inline-block; width:85vw;
   }
   
@@ -247,7 +247,7 @@ main, footer
   
   #d7
   {
-    position: absolute; left:5vw; top:1000vh;
+    position: absolute; left:5vw; top:700vh;
     display:inline-block; width:85vw;
   }
   
@@ -286,7 +286,7 @@ main, footer
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:2070vh;
+    top:800vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
