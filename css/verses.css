@@ -114,7 +114,7 @@ main, footer
   
 #d2
   {
-    position: absolute; left:7.5vw; top:730px;
+    position: absolute; left:7.5vw; top:1000px;
     display:inline-block; width:85vw;
   }
   
@@ -143,7 +143,7 @@ main, footer
   #d2 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
   #d3
   {
