@@ -333,6 +333,24 @@ main, footer
     text-align:center; margin-top:60vh; margin-bottom:30px;
   }
   
+  #d1 p.ex4
+  {
+    position: absolute;
+    display: inline-block; width:95vw;
+    font-family:newyorker; font-size: 28px;
+    color: #d0a115c7; text-decoration: underline;
+    text-align:center; margin-top:70vh; margin-bottom:30px;
+  }
+  
+  #d1 p.ex5
+  {
+    position: absolute;
+    display: inline-block; width:95vw;
+    font-family:newyorker; font-size: 28px;
+    color: #d0a115c7; text-decoration: underline;
+    text-align:center; margin-top:80vh; margin-bottom:30px;
+  }
+  
 #d2
   {
     position: absolute; left:5vw; top:500px;
