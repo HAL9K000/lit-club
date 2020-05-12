@@ -172,7 +172,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:7.5vw; top:4700px;
+    position: absolute;left:7.5vw; top:3700px;
     display:inline-block; width:85vw;
   }
   
@@ -192,12 +192,12 @@ main, footer
   #d4 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 12vw;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 15vw;
   }
   
   #d5
   {
-    position: absolute; left:7.5vw; top:6500px;
+    position: absolute; left:7.5vw; top:5000px;
     display:inline-block; width:85vw;
   }
   
@@ -217,12 +217,12 @@ main, footer
   #d5 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 12vw;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 15vw;
   }
   
   #d6
   {
-    position: absolute; left:7.5vw; top:7550px;
+    position: absolute; left:7.5vw; top:6050px;
     display:inline-block; width:85vw;
   }
   
