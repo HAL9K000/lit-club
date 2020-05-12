@@ -411,7 +411,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:5vw; top:2150px;
+    position: absolute;left:5vw; top:2200px;
     display:inline-block; width:85vw;
   }
   
@@ -431,12 +431,12 @@ main, footer
   #d4 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 35vw; text-align: center;
   }
   
   #d5
   {
-    position: absolute;left:5vw; top:2800px;
+    position: absolute;left:5vw; top:3300px;
     display:inline-block; width:85vw;
   }
   
@@ -456,12 +456,12 @@ main, footer
   #d5 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 35vw; text-align: center;
   }
   
   #d6
   {
-    position: absolute;left:5vw; top:3300px;
+    position: absolute;left:5vw; top:3800px;
     display:inline-block; width:85vw;
   }
   
@@ -486,7 +486,7 @@ main, footer
   
   #d7
   {
-    position: absolute; left:5vw; top:1000vh;
+    position: absolute; left:5vw; top:700vh;
     display:inline-block; width:85vw;
   }
   
