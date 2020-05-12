@@ -379,9 +379,9 @@ main, footer
     position:absolute;
     top:400px;
   }
-  #d2 p
+  #d2 p.p1
   {
-    margin-bottom: 4vh; text-align:justify; font-family: verdana;
+    margin-bottom: 1vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
   #d3
