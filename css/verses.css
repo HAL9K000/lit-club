@@ -147,7 +147,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:7.5vw; top:5550px;
+    position: absolute; left:7.5vw; top:2500px;
     display:inline-block; width:85vw;
   }
   
@@ -167,7 +167,7 @@ main, footer
   #d3 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
   
   #d4
@@ -192,7 +192,7 @@ main, footer
   #d4 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
   
   #d5
@@ -217,7 +217,7 @@ main, footer
   #d5 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
   
   #d6
@@ -242,7 +242,7 @@ main, footer
   #d6 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
   
   #d7
