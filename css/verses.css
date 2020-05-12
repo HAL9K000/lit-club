@@ -374,16 +374,36 @@ main, footer
     text-align:center; font-weight: bold; margin-top:250px; margin-bottom:30px;
   }
   
-  #d2 >div
+  #d2 >div.p1
   {
     position:absolute;
     top:400px;
   }
+  
+  #d2 >div.p2
+  {
+    position:absolute;
+    top:450px;
+  }
+  
+  #d2 >div.p3
+  {
+    position:absolute;
+    top:500px;
+  }
+  
+  #d2 >div.p4
+  {
+    position:absolute;
+    top:550px;
+  }
+ 
   #d2 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
+  
   #d3
   {
     position: absolute; left:5vw; top:2600px;
