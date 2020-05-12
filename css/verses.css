@@ -147,7 +147,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:7.5vw; top:2500px;
+    position: absolute; left:7.5vw; top:2300px;
     display:inline-block; width:85vw;
   }
   
@@ -172,7 +172,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:7.5vw; top:10470px;
+    position: absolute;left:7.5vw; top:4700px;
     display:inline-block; width:85vw;
   }
   
@@ -197,7 +197,7 @@ main, footer
   
   #d5
   {
-    position: absolute; left:7.5vw; top:12050px;
+    position: absolute; left:7.5vw; top:6500px;
     display:inline-block; width:85vw;
   }
   
@@ -222,7 +222,7 @@ main, footer
   
   #d6
   {
-    position: absolute; left:7.5vw; top:15550px;
+    position: absolute; left:7.5vw; top:7550px;
     display:inline-block; width:85vw;
   }
   
@@ -247,7 +247,7 @@ main, footer
   
   #d7
   {
-    position: absolute; left:5vw; top:2685vh;
+    position: absolute; left:5vw; top:1000vh;
     display:inline-block; width:85vw;
   }
   
