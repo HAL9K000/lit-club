@@ -247,7 +247,7 @@ main, footer
   
   #d7
   {
-    position: absolute; left:5vw; top:750vh;
+    position: absolute; left:5vw; top:725vh;
     display:inline-block; width:85vw;
   }
   
@@ -286,7 +286,7 @@ main, footer
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:400vh;
+    top:200vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
