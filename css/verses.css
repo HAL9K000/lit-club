@@ -377,11 +377,11 @@ main, footer
   #d2 >div
   {
     position:absolute;
-    top:400px;
+    top:380px;
   }
-  #d2 p.p1
+  #d2 p
   {
-    margin-bottom: 1vh; text-align:justify; font-family: verdana;
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
   }
   #d3
