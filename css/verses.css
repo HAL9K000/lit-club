@@ -365,7 +365,7 @@ main, footer
     left:18vw; top:50px;
   }  
   
-  #d2 h3, #d3 h3, #d4 h3
+  #d2 h3, #d3 h3, #d4 h3, #d5 h3, #d6 h3
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -382,7 +382,7 @@ main, footer
   #d2 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; left: 10vw;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 10vw;
   }
   #d3
   {
