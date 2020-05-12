@@ -386,7 +386,7 @@ main, footer
   }
   #d3
   {
-    position: absolute; left:5vw; top:1650px;
+    position: absolute; left:5vw; top:1550px;
     display:inline-block; width:85vw;
   }
   
@@ -411,7 +411,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:5vw; top:2500px;
+    position: absolute;left:5vw; top:2000px;
     display:inline-block; width:85vw;
   }
   
@@ -436,11 +436,61 @@ main, footer
   
   #d5
   {
+    position: absolute;left:5vw; top:2700px;
+    display:inline-block; width:85vw;
+  }
+  
+  #d5> img
+  {
+    position: absolute;
+    display:block;
+    width:60vw;
+    left:18vw; top:50px;
+  }
+  
+  #d5 >div
+  {
+    position:absolute;
+    top:360px;
+  }
+  #d5 p
+  {
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
+    font-size: 16.5px; line-height: 19.5px;
+  }
+  
+  #d6
+  {
+    position: absolute;left:5vw; top:3500px;
+    display:inline-block; width:85vw;
+  }
+  
+  #d6> img
+  {
+    position: absolute;
+    display:block;
+    width:60vw;
+    left:18vw; top:50px;
+  }
+  
+  #d6 >div
+  {
+    position:absolute;
+    top:360px;
+  }
+  #d6 p
+  {
+    margin-bottom: 4vh; text-align:justify; font-family: verdana;
+    font-size: 16.5px; line-height: 19.5px;
+  }
+  
+  #d7
+  {
     position: absolute; left:5vw; top:1620vh;
     display:inline-block; width:85vw;
   }
   
-  #d5 h3
+  #d7 h3
   {
     position: absolute;
     display: inline-block; width:95vw;
