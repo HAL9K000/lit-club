@@ -401,7 +401,7 @@ main, footer
   #d3 >div
   {
     position:absolute;
-    top:400px;
+    top:360px;
   }
   #d3 p
   {
@@ -411,7 +411,7 @@ main, footer
   
   #d4
   {
-    position: absolute;left:5vw; top:4700px;
+    position: absolute;left:5vw; top:3000px;
     display:inline-block; width:85vw;
   }
   
@@ -426,7 +426,7 @@ main, footer
   #d4 >div
   {
     position:absolute;
-    top:400px;
+    top:360px;
   }
   #d4 p
   {
