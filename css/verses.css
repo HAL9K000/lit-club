@@ -382,11 +382,11 @@ main, footer
   #d2 p
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px;
+    font-size: 16.5px; line-height: 19.5px; text-align:center;
   }
   #d3
   {
-    position: absolute; left:5vw; top:1550px;
+    position: absolute; left:5vw; top:1580px;
     display:inline-block; width:85vw;
   }
   
