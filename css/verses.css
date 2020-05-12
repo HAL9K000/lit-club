@@ -374,29 +374,10 @@ main, footer
     text-align:center; font-weight: bold; margin-top:250px; margin-bottom:30px;
   }
   
-  #d2 >p1
+  #d2 >div
   {
     position:absolute;
-    top:500px;
-  }
-  
-  #d2 >p2
-  {
-    position:absolute;
-    top:550px;
-  }
-  
-  #d2 >p3
-  {
-    position:absolute;
-    top:600px;
-  }
-  
-  #d2 >p4
-  {
-    position:absolute;
-    top:650px;
-  }
+    top:400px;
  
   #d2 p
   {
