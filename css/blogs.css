@@ -220,7 +220,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:60vh;
+    left:20vw; top:80vh;
   }
   
  #d2
@@ -266,9 +266,9 @@ figcaption
 footer
 {
   display:inline-block;
-  width:99vw; height:15vh;
+  width:99vw; height:10vh;
   position:relative;
-  bottom:0px;
+  top:200vw; 
   background-color:#000000;
   color: #8a8c87; font-size:12.5px; font-family:newyorker;
   text-align: center;
