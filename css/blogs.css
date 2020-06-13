@@ -220,7 +220,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:50vh;
+    left:20vw; top:60vh;
   }
   
  #d2
@@ -231,7 +231,7 @@ figcaption
 #d2 ul
   {
     margin-bottom: 4vh; text-align:justify; font-family: verdana;
-    font-size: 16.5px; line-height: 19.5px; margin-left: 30vw; text-align: center;
+    font-size: 16.5px; line-height: 19.5px; margin-left: 15vw; text-align: center;
   }
  
  #d3
@@ -239,7 +239,7 @@ figcaption
   width:99vw; height: auto;
   display:inline-block;
   position:relative;
-  top:2190px;
+  top:1900px;
 
 }
 
@@ -266,7 +266,7 @@ figcaption
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:99vw; height:15vh;
   position:relative;
   bottom:0px;
   background-color:#000000;
