@@ -159,7 +159,7 @@ footer>p>img
 {
   main, footer
   {
-    position:relative; top: 110.5vh;
+    position:relative; top: 200vh;
   }
   main
   {
@@ -225,7 +225,7 @@ figcaption
   
  #d2
   {
-    position: absolute; left:5vw; top:550px;
+    position: absolute; left:5vw; top:590px;
     display:inline-block; width:85vw;
   }
 #d2 ul
@@ -235,13 +235,10 @@ figcaption
   }
  
  #d3
-{
-  width:99vw; height: auto;
-  display:inline-block;
-  position:relative;
-  top:100px;
-
-}
+  {
+    position: absolute;left:5vw; top:500px;
+    display:inline-block; width:99vw;
+  }
 
 #d3>img
 {
@@ -268,7 +265,6 @@ footer
   display:inline-block;
   width:99vw; height:10vh;
   position:relative;
-  top:200vh; 
   background-color:#000000;
   color: #8a8c87; font-size:12.5px; font-family:newyorker;
   text-align: center;
