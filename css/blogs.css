@@ -37,6 +37,16 @@
    top: -9.5vh; clear:both; display: inline-block;
    width:99vw;
  }
+ #d1 >section
+{
+  display:inline-block;
+  width:95vw; height:auto;
+  position: absolute;
+  left: 2.5vw; top:30px;
+  text:justify;
+  z-index:-0.1;
+  padding:2px;
+}
  #d1 h2
   {
     position: absolute;
@@ -168,6 +178,13 @@ footer>p>img
     top: 0.5vh; clear:both; display: inline-block;
     width:99vw;
   }
+  #d1 >section
+{
+  display:inline-block;
+  width:46vw; height:auto;
+  position: absolute;
+  left: 5vw; top:7vh;
+}
   #d1 h2
   {
     position: absolute;
@@ -185,7 +202,7 @@ footer>p>img
   #d1> figure
 {
   display:inline-block; position: absolute;
-  width:42vw; height:85vh; left: 55vw; top: 2vh;
+  width:42vw; height:85vh; left: 60vw; top: 2vh;
 }
 figure> img
 {
@@ -205,7 +222,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:20vh;
+    left:20vw; top:50vh;
   }
   
  #d2
