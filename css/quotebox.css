@@ -56,7 +56,7 @@ figcaption
 {
   width: 99vw; height:auto;
   position:absolute;
-  left:0.5vw; top: 830px;
+  left:0.5vw; top: 780px;
   margin-bottom:2vh;
 }
 #d1 > section >p::first-letter
@@ -339,7 +339,7 @@ figcaption
 {
   width: 98.5vw; height:auto;
   position:absolute;
-  left:0.1vw; top: 84vh;
+  left:0.1vw; top: 88vh;
   margin-top:5vh;
 }
 a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]
