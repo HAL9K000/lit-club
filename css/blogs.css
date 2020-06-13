@@ -185,7 +185,7 @@ footer>p>img
   position: absolute;
   left: 5vw; top:7vh;
 }
-  #d1 h2
+  #d1 >section >h2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -193,7 +193,7 @@ footer>p>img
     color: #d0a115c7; font-style: italic;
     text-align:center; margin-top:4vh; margin-bottom:30px;
   }
-  #d1> p
+  #d1 >section >p
 {
   width:94vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
