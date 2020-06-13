@@ -205,7 +205,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:-7.5vh;
+    left:20vw; top:7.5vh;
   }
   
  #d2
