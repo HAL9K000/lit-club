@@ -43,7 +43,7 @@
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 30px;
     color: #d0a115c7; font-style: italic;
-    text-align:center; margin-top:1vh; margin-bottom:30px;
+    text-align:center; margin-top:2vh; margin-bottom:30px;
   }
 #d1> p
 {
@@ -174,7 +174,7 @@ footer>p>img
     display: inline-block; width:95vw;
     font-family:newyorker; font-size: 35px;
     color: #d0a115c7; font-style: italic;
-    text-align:center; margin-top:1vh; margin-bottom:30px;
+    text-align:center; margin-top:4vh; margin-bottom:30px;
   }
   #d1> p
 {
@@ -205,7 +205,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:7.5vh;
+    left:20vw; top:20vh;
   }
   
  #d2
