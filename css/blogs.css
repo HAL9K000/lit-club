@@ -166,7 +166,7 @@ footer>p>img
     height:2500px; background-color: #ffffff; z-index:0;
   }
   body
-  {  background-image:url(../imago/Fountain_Pen.jpg); background-width:85vw;
+  {  background-image:url(../imago/Fountain_Pen.jpg); background-width:115vw;
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: cover; background-position: center center;
     z-index:-1;
@@ -176,7 +176,7 @@ footer>p>img
 {
   position: relative; background-color: #ffffff;
   top: 0.5vh; clear:both; display: inline-block;
-  width:85vw; height: 2000px; z-index:0;
+  width:115vw; height: 2000px; z-index:0;
 }
   #d1> section
 {
@@ -211,7 +211,7 @@ figure> img
 figcaption
 {
   position:absolute;
-  left:0vw; top:75vh;
+  left:5vw; top:75vh;
   text-align:center; font-family: newyorker; font-size: 15px; color: #d0a115c7;
   font-weight: bold;
 }
