@@ -286,9 +286,9 @@
   }
 
 main, footer
-{
-  position:relative; top:90px;
-}
+  {
+    position:relative; top: 100vh;
+  }
 main
   {
     height:2300px; background-color: #ffffff; z-index:0; width: 104vw;
@@ -389,7 +389,7 @@ figcaption
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:104vw; height:8vh;
   position:relative;
   top:2610px;
   background-color:#000000;
