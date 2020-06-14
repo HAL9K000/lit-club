@@ -6,11 +6,11 @@
 {
  main, footer
   {
-    position:relative; top: 250vh;
+    position:relative; top: 150vh;
   }
  main
   {
-    height:1950px; background-color: #ffffff; z-index:0;
+    height:2150px; background-color: #ffffff; z-index:0;
   }
  body
  {
@@ -25,12 +25,12 @@
  {
    position: relative;
    top: 0.5vh; clear:both; display: inline-block;
-   width:104vw;
+   width:150vw;
  }
  #d1 >section
 {
   display:inline-block;
-  width:104vw; height:auto;
+  width:150vw; height:auto;
   position: absolute;
   left: 2.5vw; top:30px;
   text:justify;
