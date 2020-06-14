@@ -106,36 +106,34 @@ figcaption
   }
  
 footer
-{
-  display:inline-block;
-  width:104vw; height:10vh;
-  position:relative;
-  background-color:#000000;
-  color: #8a8c87; font-size:11.5px; font-family:newyorker;
-  text-align: center;
-}
-footer >p
-{
-  margin-top:1vh;
-}
-footer >p>span
-{
-  color: #8a8c87;
-  transition-property: all; transition-duration: 1.5s; transition-timing-function: ease-in;
-}
-footer >p>span:hover
-{
-  color: #d0a115c7;
-}
-footer>p>img
-{
-  width:18px; height:14px;
-}
+  {
+    display:inline-block;
+    width:100vw; height:10vh;
+    position:relative;
+    top:130vh;
+    background-color:#000000;
+    color: #8a8c87; font-size:11.5px; font-family:newyorker;
+    text-align: center;
+  }
+  footer >p
+  {
+    margin-top:1vh;
+  }
+  footer p>span
+  {
+    color: #8a8c87;
+    transition-property: all; transition-duration: 1s; transition-timing-function: ease-in;
+  }
+  footer p>span:hover
+  {
+    color: #ae8610;
+  }
+  footer p>img
+  {
+    width:18px; height:14px;
+  }
 }
 
-  width:18px; height:14px;
-}
-}
 
 @media only screen and (min-width:900px)
 {
