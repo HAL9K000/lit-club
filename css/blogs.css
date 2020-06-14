@@ -6,7 +6,7 @@
 {
  main, footer
   {
-    position:relative; top: 150vh;
+    position:relative; top: 250vh;
   }
  main
   {
@@ -16,7 +16,7 @@
  {
   background-image:url(../imago/Fountain_Pen.jpg);
   background-attachment: fixed;
-  background-repeat: no-repeat; background-size: 100% auto;
+  background-repeat: no-repeat; background-size: cover;
   background-position: top center;
   z-index:-1;
  }
@@ -25,12 +25,12 @@
  {
    position: relative;
    top: 0.5vh; clear:both; display: inline-block;
-   width:99vw;
+   width:104vw;
  }
  #d1 >section
 {
   display:inline-block;
-  width:95vw; height:auto;
+  width:104vw; height:auto;
   position: absolute;
   left: 2.5vw; top:30px;
   text:justify;
@@ -61,7 +61,7 @@ figure >img
 {
   position:absolute; display:inline-block;
   opacity:0.2; left:5vw;
-  width:80vw; height:300px;
+  width:80vw; height:100px;
 }
 figcaption
 {
