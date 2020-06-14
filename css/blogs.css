@@ -168,7 +168,7 @@ footer>p>img
   body
   {  background-image:url(../imago/Fountain_Pen.jpg);
     background-attachment: fixed;
-    background-repeat: no-repeat; background-size: cover; background-position: center top;
+    background-repeat: no-repeat; background-size: cover; background-position: center center;
     z-index:-1;
   }
   
