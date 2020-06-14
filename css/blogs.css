@@ -289,7 +289,10 @@ main, footer
 {
   position:relative; top:90px;
 }
-
+main
+  {
+    height:2300px; background-color: #ffffff; z-index:0; width: 104vw;
+  }
 body
 {  background-image:url(../imago/Fountain_Pen.jpg);
   background-attachment: fixed;
