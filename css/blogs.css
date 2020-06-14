@@ -19,38 +19,39 @@ main
     height:2300px; background-color: #ffffff; z-index:0; width: 104vw;
   }
 body
-{  background-image:url(../imago/Fountain_Pen.jpg);
-  background-attachment: fixed;
-  background-repeat: no-repeat; background-size: cover; background-position: center center;
-  z-index:-1;
-}
+  {  
+    background-image:url(../imago/Fountain_Pen.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat; background-size: cover; background-position: center center;
+    z-index:-1;
+  }
 
 #d1
-{
-  position: relative; background-color: #ffffff;
-  top: 0.5vh; clear:both; display: inline-block;
-  width:104vw; height: 500px; z-index:0;
-}
-  #d1> section
-{
-  display:inline-block;
-  width:46vw; height:auto;
-  position: absolute;
-  left: 5vw; top:5vh;
-}
-  #d1> section> h2
   {
-  font-family:newyorker; font-size: 28px;
-  color: #d0a115c7; font-style: italic; font-variant: small-caps;
-  margin-bottom: 8vh; text-align:center; font-weight: bold; margin-top:1vh;
-}
+    position: relative; background-color: #ffffff;
+    top: 0.5vh; clear:both; display: inline-block;
+    width:104vw; height: 500px; z-index:0;
+  }
+#d1> section
+  {
+    display:inline-block;
+    width:46vw; height:auto;
+    position: absolute;
+    left: 5vw; top:5vh;
+  }
+#d1> section> h2
+  {
+    font-family:newyorker; font-size: 28px;
+    color: #d0a115c7; font-style: italic; font-variant: small-caps;
+    margin-bottom: 8vh; text-align:center; font-weight: bold; margin-top:1vh;
+  }
  
 #d1 >section >p
 {
   margin-bottom: 2vh; font-family:verdana, arial; text-align: justify;
   font-size: 16.5px; line-height: 19.5px;
 }
-  #d1> figure
+#d1> figure
 {
   display:inline-block; position: absolute;
   width:35vw; height:85vh; left: 60vw; top: 0vh;
@@ -68,7 +69,7 @@ figcaption
   text-align:center; font-family: newyorker; font-size: 15px; color: #d0a115c7;
   font-weight: bold;
 }
-  #d1> img
+ #d1> img
   {
     position: absolute;
     display:inline-block;
@@ -107,10 +108,6 @@ figcaption
     font-size:22px;
   }
   
-.ital
-{
-  font-style:italic;
-}
 footer
 {
   display:inline-block;
