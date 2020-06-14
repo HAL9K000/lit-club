@@ -391,12 +391,10 @@ footer
   display:inline-block;
   width:104vw; height:8vh;
   position:relative;
-  top:2610px;
   background-color:#000000;
   color: #8a8c87; font-size:12.5px; font-family:newyorker;
   text-align: center;
-  clear:both;
-}
+  }
 footer >p
 {
   margin-top:1vh;
