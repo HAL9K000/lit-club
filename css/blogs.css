@@ -176,7 +176,7 @@ footer>p>img
 {
   position: relative; background-color: #ffffff;
   top: 0.5vh; clear:both; display: inline-block;
-  width:99vw; height: 2000px; z-index:0;
+  width:85vw; height: 2000px; z-index:0;
 }
   #d1> section
 {
@@ -257,7 +257,7 @@ figcaption
 footer
 {
   display:inline-block;
-  width:99vw; height:10vh;
+  width:85vw; height:10vh;
   position:relative;
   background-color:#000000;
   color: #8a8c87; font-size:12.5px; font-family:newyorker;
