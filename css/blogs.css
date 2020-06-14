@@ -163,7 +163,7 @@ footer>p>img
   }
   main
   {
-    height:1500px; background-color: #ffffff; z-index:0;
+    height:2500px; background-color: #ffffff; z-index:0;
   }
   body
   {  background-image:url(../imago/Fountain_Pen.jpg);
@@ -175,8 +175,8 @@ footer>p>img
   #d1
   {
     position: relative;
-    top: 0.5vh; clear:both; display: inline-block;
-    width:99vw;
+    top: 0.25vh; clear:both; display: inline-block;
+    width:100vw;
   }
   #d1> section
 {
