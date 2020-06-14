@@ -64,8 +64,8 @@ body
 figure >img
 {
   position:absolute; display:inline-block;
-  opacity:0.25; left:5vw;
-  width:90vw; height:300px;
+  opacity:0.25; left:0vw;
+  width:95vw; height:300px;
 }
 figcaption
 {
@@ -81,7 +81,7 @@ figcaption
   
  #d2
   {
-    position: absolute; left:0vw; top:600px;
+    position: absolute; left:0vw; top:500px;
     display:inline-block; width:104vw; background-color: #ffffff;
   }
 #d2 ul
