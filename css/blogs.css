@@ -12,11 +12,11 @@
 
 main, footer
   {
-    position:relative; top: 200vh;
+    position:relative; top: 100vh;
   }
 main
   {
-    height:2300px; background-color: #ffffff; z-index:0; width: 104vw;
+    height:2500px; background-color: #ffffff; z-index:0; width: 104vw;
   }
 body
   {  
@@ -95,14 +95,14 @@ figcaption
 {
   dislay:inline-block;
   position:absolute;
-  left:18vw; top:2500px;
+  left:18vw; top:3000px;
   width:60vw; height:auto;
 }
 #d2> p
 {
   display:inline-block; width:99vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
-  text-align:center; position:absolute; left:0vw; top: 2600px;
+  text-align:center; position:absolute; left:0vw; top: 3100px;
 }
 
   .Styled
