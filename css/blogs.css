@@ -53,21 +53,19 @@ body
 }
 #d1> figure
 {
-  display:inline-block; position: absolute;
-  width:35vw; height:85vh; left: 60vw; top: 0vh;
+  position:absolute; display:inline-block;
+  left:5vw; width:90vw; height:auto;
+  top:220px; z-index:0;
 }
-figure> img
+figure >img
 {
-  position:absolute;
-  left:0.5vw; top:0vh;
-  width:33vw; height: 70vh;
+  position:absolute; display:inline-block;
+  opacity:0.5; left:5vw;
+  width:80vw; height:100px;
 }
 figcaption
 {
-  position:absolute;
-  left:1vw; top:72vh;
-  text-align:center; font-family: newyorker; font-size: 15px; color: #d0a115c7;
-  font-weight: bold;
+  opacity:0;
 }
  #d1> img
   {
