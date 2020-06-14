@@ -30,7 +30,7 @@
  #d1 >section
 {
   display:inline-block;
-  width:150vw; height:auto;
+  width:100vw; height:auto;
   position: absolute;
   left: 2.5vw; top:30px;
   text:justify;
@@ -60,7 +60,7 @@
 figure >img
 {
   position:absolute; display:inline-block;
-  opacity:0.2; left:5vw;
+  opacity:0.5; left:5vw;
   width:80vw; height:100px;
 }
 figcaption
@@ -85,23 +85,14 @@ figcaption
     font-size: 16.5px; line-height: 19.5px; text-align: center; margin-left: 5vw;
   }
 
-#d3
-{
-  width:99vw; height: auto;
-  display:inline-block;
-  position:relative;
-  top:3890px;
-
-}
-
-#d3>img
+#d2>img
 {
   dislay:inline-block;
   position:absolute;
   left:18vw; top:-20px;
   width:60vw; height:auto;
 }
-#d3> p
+#d2> p
 {
   width:94vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
