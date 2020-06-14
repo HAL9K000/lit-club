@@ -65,7 +65,7 @@ figure >img
 {
   position:absolute; display:inline-block;
   opacity:0.25; left:5vw;
-  width:80vw; height:300px;
+  width:90vw; height:300px;
 }
 figcaption
 {
@@ -76,7 +76,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:45vh;
+    left:20vw; top:50vh;
   }
   
  #d2
