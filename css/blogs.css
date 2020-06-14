@@ -228,14 +228,14 @@ figcaption
 {
   dislay:inline-block;
   position:absolute;
-  left:18vw; top:1150px;
+  left:18vw; top:1180px;
   width:60vw; height:auto;
 }
 #d2> p
 {
   display:inline-block; width:99vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
-  text-align:center; position:absolute; left:0vw; top: 1525px;
+  text-align:center; position:absolute; left:0vw; top: 1555px;
 }
 
   .Styled
