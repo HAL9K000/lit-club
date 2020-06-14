@@ -58,14 +58,14 @@ body
 #d1> figure
 {
   position:absolute; display:inline-block;
-  left:5vw; width:90vw; height:auto;
+  left:3vw; width:90vw; height:auto;
   top:30px; z-index:0;
 }
 figure >img
 {
   position:absolute; display:inline-block;
   opacity:0.25; left:0vw;
-  width:95vw; height:300px;
+  width:97vw; height:300px;
 }
 figcaption
 {
@@ -81,13 +81,14 @@ figcaption
   
  #d2
   {
-    position: absolute; left:0vw; top:500px;
+    position: absolute; left:0vw; top:470px;
     display:inline-block; width:104vw; background-color: #ffffff;
   }
 #d2 ul
   {
-    margin-bottom: 4vh; text-align:justify; font-family: sans-serif; list-style: initial
+    margin-bottom: 4vh; text-align:justify; font-family: sans-serif; list-style: initial;
     font-size: 16.5px; line-height: 19.5px; margin-left: 15vw; margin-right: 20vw; text-align: justify;
+    list-style
   }
  
  #d2>img
@@ -219,7 +220,7 @@ figcaption
   }
 #d2 ul
   {
-    margin-bottom: 4vh; text-align:justify; font-family: sans-serif; list-style: initial
+    margin-bottom: 4vh; text-align:justify; font-family: sans-serif; list-style: initial;
     font-size: 16.5px; line-height: 19.5px; margin-left: 15vw; margin-right: 20vw; text-align: justify;
   }
  
