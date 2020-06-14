@@ -205,13 +205,13 @@ footer>p>img
 figure> img
 {
   position:absolute;
-  left:2vw; top:0vh;
+  left:0vw; top:0vh;
   width:38vw; height: 75vh;
 }
 figcaption
 {
   position:absolute;
-  left:-1vw; top:74.5vh;
+  left:0vw; top:74.5vh;
   text-align:center; font-family: newyorker; font-size: 15px; color: #d0a115c7;
   font-weight: bold;
 }
