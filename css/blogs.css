@@ -59,7 +59,7 @@ body
 {
   position:absolute; display:inline-block;
   left:5vw; width:90vw; height:auto;
-  top:50px; z-index:0;
+  top:30px; z-index:0;
 }
 figure >img
 {
@@ -76,7 +76,7 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:60vh;
+    left:20vw; top:45vh;
   }
   
  #d2
