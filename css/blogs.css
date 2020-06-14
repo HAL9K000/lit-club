@@ -59,12 +59,12 @@ body
 {
   position:absolute; display:inline-block;
   left:5vw; width:90vw; height:auto;
-  top:120px; z-index:0;
+  top:70px; z-index:0;
 }
 figure >img
 {
   position:absolute; display:inline-block;
-  opacity:0.2; left:5vw;
+  opacity:0.25; left:5vw;
   width:80vw; height:300px;
 }
 figcaption
@@ -76,12 +76,12 @@ figcaption
     position: absolute;
     display:inline-block;
     width:60vw;
-    left:20vw; top:80vh;
+    left:20vw; top:60vh;
   }
   
  #d2
   {
-    position: absolute; left:0vw; top:670px;
+    position: absolute; left:0vw; top:600px;
     display:inline-block; width:104vw; background-color: #ffffff;
   }
 #d2 ul
