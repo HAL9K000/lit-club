@@ -6,7 +6,7 @@
 {
  main, footer
   {
-    position:relative; top: 120.5vh;
+    position:relative; top: 150vh;
   }
  main
   {
@@ -20,17 +20,7 @@
   background-position: top center;
   z-index:-1;
  }
- 
-
- #BackgroundImg
- {
-   position:relative; top:-65vh; opacity:0.7;
-   display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
-   background-image:url(../imago/icon.png); background-size:150px, 100px;
-   z-index:-0.25;
-   background-repeat: no-repeat;
- }
- 
+  
  #d1
  {
    position: relative;
