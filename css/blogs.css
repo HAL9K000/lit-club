@@ -52,14 +52,14 @@ body
 #d1 >section >p
 {
   width:94vw;
-  color:#000000; font-size: 22px; font-family: sans-serif;
-  text-align:justify; position:absolute; left:3vw; top: 75px;
+  color:#000000; font-size: 19px; font-family: sans-serif;
+  text-align:justify; position:absolute; left:2vw; top: 75px;
 }  
 #d1> figure
 {
   position:absolute; display:inline-block;
   left:5vw; width:90vw; height:auto;
-  top:220px; z-index:0;
+  top:120px; z-index:0;
 }
 figure >img
 {
