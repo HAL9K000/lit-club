@@ -175,8 +175,8 @@ footer>p>img
   #d1
 {
   position: relative; background-color: #ffffff;
-  top: 90.5vh; clear:both; display: inline-block;
-  width:99vw; height: 4600px; z-index:0;
+  top: 50.5vh; clear:both; display: inline-block;
+  width:99vw; height: 2000px; z-index:0;
 }
   #d1> section
 {
