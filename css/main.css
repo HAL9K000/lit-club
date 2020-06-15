@@ -110,7 +110,7 @@
   }
   #d2> span
   {
-    margin-bottom:15px; display:inline-block; width:95vw; height:auto;
+    margin-bottom:15px; display:inline-block; width:95vw; height:auto; font-family: sans-serif;
   }
   span>a
   {
