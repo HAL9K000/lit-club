@@ -288,6 +288,29 @@ h2
   border-width: 1.99px;
   border-color: #ae8610;
 }
+#d2 >span
+{
+  width:55vw; height:10vh;
+  text-align:center; display: inline-block;
+  margin-top:2vh;
+  font-size: 20px;
+  font-family: verdana;
+
+}
+
+#d2>span>a
+{
+  font-weight:normal;
+  color:#9e9b04; text-decoration: none;
+}
+article>span>a:visited
+{
+  color:#9e9b04;
+}
+article>span>a:hover, article>span>a:focus
+{
+  color: #c7c312;
+}
 #d3
 {
   display:inline-block; width:99vw; height: 70vh;
@@ -342,7 +365,7 @@ article>span>a:hover, article>span>a:focus
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:99vw; height:10vh;
   position:relative;
   top:100vh;
   background-color:#000000;
