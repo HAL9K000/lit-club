@@ -303,11 +303,11 @@ h2
   font-weight:normal;
   color:#9e9b04; text-decoration: none;
 }
-article>span>a:visited
+#d2>span>a:visited
 {
   color:#9e9b04;
 }
-article>span>a:hover, article>span>a:focus
+#d2>span>a:hover, article>span>a:focus
 {
   color: #c7c312;
 }
