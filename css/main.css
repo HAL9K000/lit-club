@@ -276,7 +276,7 @@ h2
   position:absolute;
   top: 10vh; left: 70vw;
 }
-#e1 >span:first-child, #e2 >span:first-child
+#e1 >span:first-child, #e3 >span:first-child
 {
   position:absolute;
   left: 2vw; top:3vh;
@@ -285,7 +285,7 @@ h2
   font-family:verdana; font-size:16px;
 }
 
-#e3 >span:first-child
+#e2 >span:first-child
 {
   position:absolute;
   left: 2vw; top:3vh;
@@ -294,7 +294,7 @@ h2
   font-family:verdana; font-size:16px;
 }
 
-#e1 >span:last-child, #e2 >span:last-child
+#e1 >span:last-child, #e3 >span:last-child
 {
   position:absolute;
   left: 2vw; top:12vh;
@@ -303,7 +303,7 @@ h2
   font-family:verdana; font-size:15px;
 }
 
-#e3 >span:last-child
+#e2 >span:last-child
 {
   position:absolute;
   left: 2vw; top:12vh;
