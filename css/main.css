@@ -269,14 +269,14 @@ h2
 #e2
 {
   position:absolute;
-  top: 10vh; left: 45vw;
+  top: 10vh; left: 45vw; width: 25vw;
 }
 #e3
 {
   position:absolute;
   top: 10vh; left: 70vw;
 }
-#e1 >span:first-child, #e2 >span:first-child, #e3 >span:first-child
+#e1 >span:first-child, #e2 >span:first-child
 {
   position:absolute;
   left: 2vw; top:3vh;
@@ -284,7 +284,17 @@ h2
   text-align:center;
   font-family:verdana; font-size:16px;
 }
-#e1 >span:last-child, #e2 >span:last-child, #e3 >span:last-child
+
+#e3 >span:first-child
+{
+  position:absolute;
+  left: 2vw; top:3vh;
+  width: 15vw; height:6vh;
+  text-align:center;
+  font-family:verdana; font-size:16px;
+}
+
+#e1 >span:last-child, #e2 >span:last-child
 {
   position:absolute;
   left: 2vw; top:12vh;
@@ -292,6 +302,16 @@ h2
   text-align:center;
   font-family:verdana; font-size:15px;
 }
+
+#e3 >span:last-child
+{
+  position:absolute;
+  left: 2vw; top:12vh;
+  width: 15vw; height:6vh;
+  text-align:center;
+  font-family:verdana; font-size:15px;
+}
+  
 #d2> div:hover,#d2> div:focus
 {
   border-width: 1.99px;
