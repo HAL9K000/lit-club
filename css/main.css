@@ -269,7 +269,7 @@ h2
 #e2
 {
   position:absolute;
-  top: 10vh; left: 45vw; width: 25vw;
+  top: 10vh; left: 45vw; width: 45vw;
 }
 #e3
 {
@@ -285,11 +285,11 @@ h2
   font-family:verdana; font-size:16px;
 }
 
-#e2 >span:first-child
+#e2 >span:nth-child(1)
 {
   position:absolute;
   left: 2vw; top:3vh;
-  width: 15vw; height:6vh;
+  width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:16px;
 }
@@ -303,11 +303,20 @@ h2
   font-family:verdana; font-size:15px;
 }
 
-#e2 >span:last-child
+#e2 >span:nth-child(2)
+{
+  position:absolute;
+  left: 2vw; top:7vh;
+  width: 40vw; height:6vh;
+  text-align:center;
+  font-family:verdana; font-size:15px;
+}
+  
+#e2 >span:nth-child(3)
 {
   position:absolute;
   left: 2vw; top:12vh;
-  width: 15vw; height:6vh;
+  width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:15px;
 }
