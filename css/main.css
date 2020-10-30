@@ -315,7 +315,7 @@ h2
 #e2 >span:nth-child(2)
 {
   position:absolute;
-  left: 2vw; top:7vh;
+  left: 2vw; top:10vh;
   width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:15px;
@@ -324,7 +324,7 @@ h2
 #e2 >span:nth-child(3)
 {
   position:absolute;
-  left: 2vw; top:12vh;
+  left: 2vw; top:15vh;
   width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:15px;
