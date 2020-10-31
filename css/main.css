@@ -103,7 +103,7 @@
   #e2>span:nth-child(2)
   {
     position:absolute;
-    left: 5vw; top:80px;
+    left: 5vw; top:70px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:15px;
@@ -121,7 +121,7 @@
   #e2 >span:last-child
   {
     position:absolute;
-    left: 5vw; top:100px;
+    left: 5vw; top:90px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:17px;
