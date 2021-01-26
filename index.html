@@ -3,89 +3,98 @@
 <head>
   <meta charset="utf-8">
   <title> Lit Club </title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
   <link rel="icon" type="image/png" href="imago/icon.png">
   <link rel="stylesheet" href="css/meyer.css"/>
-  <link rel="stylesheet" href="css/main.css"/>
-  <link rel="stylesheet" href="css/header.css"/>
+  <link rel="stylesheet" href="css/main1.css"/>
+  <link rel="stylesheet" href="css/header1.css">
 </head>
 <body>
-  <header>
-    <span id="s1"><img src="imago/icon.png" alt="Lit Club Logo" title=";)"/></span>
-    <span id="s1alt"><img src="imago/litlogo1.png" alt="Lit Club Logo" title=";)"/></span>
-    <span id="h1"><img src="imago/header.png" alt="The Literary Club"/></span>
-    <span id="s2"><a href="http://www.iiserpune.ac.in/" target="_blank"><img src="imago/iiserpunelogo.svg" alt="IISER-P Logo" /></a></span>
-    <nav id="main-menu">
-      <a href="index.html" class = "active">Home</a>
-      <a href="events.html">Events</a>
-      <a href="quotebox.html">Quotebox</a>
-      <a href="opac.html">OPAC</a>
-      <a href="https://www.facebook.com/litclub.iiserpune/" target="_blank"><img src="imago/fb.svg" alt="FB" title="Our FB Page"/></a>
-    </nav>
-  </header>
-  <main>
-    <span id="BackgroundImg"></span>
-    <span id="tempmsg">Announcing the Winners of</span>
-    <span id="tempmsg"><a href="verses.html">&quot;Verses from the Quarantine&quot;</a></span>
-    <div id="cont">
-    <div id="d1">
-    <aside class="left">
-      <img src="imago/coffeemug.jpg" alt="Coffee" title="Net Beans"/>
-    </aside>
-    <section>
-      <h2> About </h2>
-      <p> What's in a name, you ask? </p>
-      <p>
-        Plenty, when the name's Lit. Duly stamped and approved by IISER Pune too.
-        Fire, up in smoke, illumination, enlightenment, flaring, amazement, scintillation and text.
-        Reams of it, in fact, in all possible forms, fonts and kerning. In all figures of speech.
-        We don't judge books by covers. From Tolkien to Tolstoy, John Green to Garcia Marquez,
-        Dante to Doyle, the bases are covered. And poetry too, by the truckload.
-        A sly, ribald limerick here, a lovelorn, sprawling ballad there and pretty much everything in between.
-        You'd be surprised at the number of poets in IISER.
-      </p>
-      <p>
-        But then a name can encompass only so much. The Lit Club is so much more.
-      </p>
-      <p> If anything diversity is our A-game. We try and accomodate everyone. Grammar Nazis, closet poets,
-          bathroom singers (yes!), occasional readers, recalcitrant fanboys, cynics you name it.
-          Just about anyone who likes to embark on a creative streak every now or then or who shares
-          a common interest in the written word would find the Lit Club a swell fit.
-      </p>
-      <h6> And what exactly do we do? </h6>
-      <p> That's, well a long list. Poetry slams, treasure hunts, murder mysteries, debates, talks and
-        discussion sessions to whit. Add to that forging new bonds and having tons of fun, and you'll
-        start getting the picture.
-      </p>
-    </section>
-  </div>
-    <section id="d2">
-      <h2> Upcoming Events </h2>
-      <div id="e2"><span>"Gender-Caste Intersections: Understanding the Contemporary" by Sneha Gole</span><span> Date: 21st November (Saturday), 5.30 PM</span><span>Link: https://meet.google.com/esw-edzf-oka</span></div>
-      <span>New Page: <a href="https://www.literaryclub-iiserpune.org/blogs.html" target="_blank">Blogs of IISER-land</a></span>
-    </section>
-   <div id="d3">
-   <aside>
-    <img src="imago/microphone.png" alt="Mic" title="We don't do Mic drops."/>
-   </aside>
-   <section>
-    <h2> Contact Us: </h2>
-    <article>
-      <span> Email ID: literary@sac.iiserpune.ac.in </span>
-      <span> Phone: +91 98864 15061 (Akash), +91 95945 65532 (Pallav), +91 82774 69081 (Vasudha) </span>
-      <span> Faculty Supervisor: <a href="http://www.iiserpune.ac.in/~ahazra/" target="_blank"> Dr. Anirban Hazra</a></span>
-    </article>
-   </section>
+	<header>
+		<span id="s1"><img src="imago/icon.png" alt="Lit Club Logo" title=";)"></span>
+    <span id="s2"><img src="imago/litlogo1.png" alt="Lit Club Logo" title=";)"></span>
+    <span id="s3"><img src="imago/header.png" alt="The Literary Club"></span>
+    <span id="s4"><a href="http://www.iiserpune.ac.in/" target="_blank"><img src="imago/iiserpunelogo.svg" alt="IISER-P Logo"></a></span>
+    <span id="s5"><a href="https://www.facebook.com/litclub.iiserpune/" target="_blank"><img src="imago/fb.svg" alt="FB" title="Our FB Page"></a></span>
+    <span id = "s6"><a href="https://www.instagram.com/litclubiiserpune/" target="_blank"><img src="imago/insta.png" alt="Insta" title = "Our Insta Page"></a></span>
+
+    <div id="mySidepanel" class="sidepanel">
+  		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()" id="cross">×</a>
+  		<a href="index.html" id="active">Home</a>
+  		<a href="events.html">Events</a>
+  		<a href="quotebox.html">Quotebox</a>
+  		<a href="opac.html">OPAC</a>
+  		<a href="blogs">Blogs of IISER-Land</a>
+  		<a href="tales">Tales from the Quarantine</a>
+  		<a href="verses">Verses from the Quarantine</a>
+		</div>
+
+		<button class="openbtn" onclick="openNav()">☰</button> 
+
+		<script>
+			function openNav() {
+  				document.getElementById("mySidepanel").style.width = "250px";
+			}
+
+			function closeNav() {
+  				document.getElementById("mySidepanel").style.width = "0";
+			}
+		</script>
+	</header>
+	<main>
+    	<span id="BackgroundImg"></span>
+    	<div id="d1">
+    	<aside class="left">
+      		<img src="imago/coffeemug.jpg" alt="Coffee" title="Net Beans">
+    	</aside>
+    	<section>
+      		<h2> About </h2>
+      		<p> What's in a name, you ask? </p>
+      		<p>
+        		Plenty, when the name's Lit. Duly stamped and approved by IISER Pune too.
+        		Fire, up in smoke, illumination, enlightenment, flaring, amazement, scintillation and text.
+        		Reams of it, in fact, in all possible forms, fonts and kerning. In all figures of speech.
+        		We don't judge books by covers. From Tolkien to Tolstoy, John Green to Garcia Marquez,
+		        Dante to Doyle, the bases are covered. And poetry too, by the truckload.
+        		A sly, ribald limerick here, a lovelorn, sprawling ballad there and pretty much everything in between.
+        		You'd be surprised at the number of poets in IISER.
+      		</p>
+      		<p>
+        		But then a name can encompass only so much. The Lit Club is so much more.
+      		</p>
+      		<p> If anything diversity is our A-game. We try and accomodate everyone. Grammar Nazis, closet poets,
+          		bathroom singers (yes!), occasional readers, recalcitrant fanboys, cynics you name it.
+          		Just about anyone who likes to embark on a creative streak every now or then or who shares
+          		a common interest in the written word would find the Lit Club a swell fit.
+      		</p>
+      		<h6> And what exactly do we do? </h6>
+      		<p> That's, well a long list. Poetry slams, treasure hunts, murder mysteries, debates, talks and
+        		discussion sessions to whit. Add to that forging new bonds and having tons of fun, and you'll
+        		start getting the picture.
+      		</p>
+    	</section>
+    </div>
+    <div id="d2">
+      <h2>Upcoming Events</h2>
+      <div id="events"><span>Orientation Programme</span><span> Date: 27th January (Wednesday), 9PM</span><span><a href="https://meet.google.com/esw-edzf-oka">Click Here</a></span></div>
+    </div>
+    <div id="d3">
+      <aside>
+        <img src="imago/microphone.png" alt="Mic" title="We don't do Mic drops."/>
+      </aside>
+      <section>
+        <h2> Contact Us: </h2>
+        <article>
+          <span> Email ID: <a href="mailto: literary@sac.iiserpune.ac.in">literary@sac.iiserpune.ac.in</a></span>
+          <span> Phone: +91 98864 15061 (Akash), +91 95945 65532 (Pallav), +91 82774 69081 (Vasudha) </span>
+          <span> Faculty Supervisor: <a href="http://www.iiserpune.ac.in/~ahazra/" target="_blank"> Dr. Anirban Hazra</a></span>
+        </article>
+      </section>
    </div>
- </div>
-
-
-
-  </main>
-  <footer>
-    <p>Designed with <img src="imago/heart2.png" alt="Lau" title="<3"/> by <span>Homi&nbsp;&colon;&rpar;&nbsp;&nbsp;</span>&copy; 2020</p>
-    <p> Made possible by the contributions of <span title="Homie's homie">Tamoghna Chowdhury</span>
+</main>
+<footer>
+  <p>Designed with <img src="imago/heart2.png" alt="Lau" title="<3"/> by <span>Homi&nbsp;&colon;&rpar;&nbsp;&nbsp;</span>&copy; 2021</p>
+  <p> Made possible by the contributions of <span title="Homie's homie">Tamoghna Chowdhury</span>
       &amp; the Lit Club Members of BS-MS 2016 & 2017</p>
-  </footer>
+</footer>
 </body>
 </html>
