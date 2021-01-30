@@ -158,13 +158,13 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 18vw;
+	left: 14vw;
 	top: 1vw;
 }
   
 #s6 img{
 	position: relative;
-	left: 18vw;
+	left: 15vw;
 	top: 1.5vw;
 }
   
@@ -214,7 +214,7 @@ a > img
 	padding: 10px 15px;
 	border: none;
 	position: relative;
-	left: 18vw;
+	left: 16vw;
 }
   
 .openbtn:hover {
