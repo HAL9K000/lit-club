@@ -28,7 +28,7 @@
  #cont{
     position: relative; background-color: #ffffff;
     top: 0vh; clear:both; display: inline-block;
-    width:100.07%; height: 2050px;
+    width:100.07%; height: 2000px;
   } 
  #d1{
     position:absolute;display:inline-block; width:95vw; height:auto;
@@ -128,7 +128,7 @@
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:100vh;
+    top:95vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
