@@ -5,103 +5,72 @@
 
 @media all and (max-width:900px)
 {
-  main
-  {
+  main{
     position: relative;
     top:100vh; height:2000px;
   }
-  body
-  {  background-image:url(../imago/coveralt.jpg);
-    background-attachment: fixed;
-    background-repeat: no-repeat; background-size: 100% auto; background-position: top center;
-    z-index:-1;
+  body{  
+	background-image:url(../imago/coveralt.jpg);
+	background-attachment: fixed;
+    	background-repeat: no-repeat; background-size: 100% auto; background-position: top center;
+    	z-index:-1;
   }
-  .left
-  {
+  .left{
     display:none;
   }
-  #BackgroundImg
-  {
+  #BackgroundImg{
     position:relative; top:-35vh; opacity:0.4;
     display:inline-block; height: 160px; left: calc(50vw - 70px); width:180px;
     background-image:url(../imago/icon.png); background-size:150px, 100px;
     z-index:-0.25;
     background-repeat: no-repeat;
   }
-  #tempmsg
-  {
-    display:none;
-  }
-  #cont
-  {
-    position: relative; background-color: #ffffff;
-    top: 0vh; clear:both; display: inline-block;
-    width:100.07%; height: 2100px;
-  }
-  #d1
-  {
+ #d1{
     position:absolute;display:inline-block; width:95vw; height:auto;
     left:2.5vw; clear:both; float:left;
   }
-  h2
-  {
+  h2{
     font-family:newyorker; font-size: 28px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     margin-bottom: 30px; text-align:center; font-weight: bold; margin-top:1vh;
   }
-  #d1 p
-  {
+  #d1 p{
     margin-bottom: 2vh; font-family:verdana, arial; text-align: justify;
     font-size: 16.5px; line-height: 19.5px;
   }
-  h6
-  {
+  h6{
     margin-bottom: 2vh; font-family:verdana, arial; text-align: justify;
     font-size: 16.5px; line-height: 19.5px;
   }
-  #d1 > section >p::first-letter, h6::first-letter
-  {
+  #d1 > section >p::first-letter, h6::first-letter{
     font-family: newyorker; font-size: 22px; text-transform: capitalize;
   }
 
-  #d2
-  {
+  #d2{
     position:absolute;display:inline-block; width:95vw; height:auto;
     left:2.5vw; top:900px;
   }
-  #d2> div
-  {
+  #d2> div{
      display:inline-block; box-sizing: border-box;
      width:90vw; height:130px; border-style:solid; border-width:1px;
      border-radius:8px; border-color: #040404c7;
      transition-property: all; transition-duration: 0.5s; transition-timing-function: linear;
      position:absolute; left: 2.5vw;
    }
-   #d2> div:hover, #d2> div:focus
-   {
+   #d2> div:hover, #d2> div:focus{
      border-color: #ae8610;
    }
-  #e1
-  {
-  }
-  #e2
-  {
+  #events{
     top: 215px;
   }
-  #e3
-  {
-    top: 370px;
-  }
-  #e1 >span:first-child, #e2 >span:first-child, #e3 >span:first-child
-  {
+  #events>span:nth-child(1){
     position:absolute;
     left: 5vw; top:20px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:20px;
   }
-  #e2>span:nth-child(2)
-  {
+  #events>span:nth-child(2){
     position:absolute;
     left: 5vw; top:60px;
     width: 80vw; height:auto;
@@ -109,58 +78,48 @@
     font-family:sans-serif; font-size:15px;
   }
   
-  #e1 >span:last-child, #e2 >span:last-child, #e3 >span:last-child
-  {
+  #e2>span:nth-child(3){
     position:absolute;
     left: 5vw; top:80px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:17px;
   }
-  #d2> span
-  {
+  #d2> span{
     margin-bottom:15px; display:inline-block; width:95vw; height:auto; font-family: sans-serif;
   }
-  span>a
-  {
+  span>a{
     text-decoration:none;
     color:#9e9b04;
   }
 
-  #d3
-  {
+  #d3{
     position:absolute;display:inline-block; width:95vw; height:auto;
     left:2.5vw; top:1450px;
   }
-  #d3 article
-  {
+  #d3 article{
     display:inline-block; width:95vw;
     text-align:justify;
     font-family:verdana, arial; text-align: justify;
     font-size: 19.5px; line-height: 29.5px;
   }
-  #d3 article> span
-  {
+  #d3 article> span{
     margin-bottom:15px; display:inline-block; width:95vw; height:auto;
   }
-  article>span>a
-  {
+  article>span>a{
     text-decoration:none;
     color:#9e9b04;
   }
-  #d3 aside
-  {
+  #d3 aside{
     position:absolute; top: 370px; left:35vw;
     display:inline-block; width: 100px; height:auto;
 
   }
-  #d3 aside>img
-  {
+  #d3 aside>img{
     width:100px; height:140px;
   }
 
-  footer
-  {
+  footer{
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
@@ -169,21 +128,17 @@
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
   }
-  footer >p
-  {
+  footer >p{
     margin-top:1vh;
   }
-  footer >p>span
-  {
+  footer >p>span{
     color:#8a8c87
     transition-property: all; transition-duration: 1s; transition-timing-function: ease-in;
   }
-  footer >p>span:hover
-  {
+  footer >p>span:hover{
     color: #ae8610;
   }
-  footer>p>img
-  {
+  footer>p>img{
     width:18px; height:14px;
   }
 }
