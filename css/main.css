@@ -7,7 +7,7 @@
 {
   main{
     position: relative;
-    top:100vh; height:2000px;
+    top:100vh; height:1700px;
   }
   body{  
 	background-image:url(../imago/coveralt.jpg);
@@ -28,7 +28,7 @@
  #cont{
     position: relative; background-color: #ffffff;
     top: 0vh; clear:both; display: inline-block;
-    width:100.07%; height: 1700px;
+    width:100.07%; height: 1725px;
   } 
  #d1{
     position:absolute;display:inline-block; width:95vw; height:auto;
