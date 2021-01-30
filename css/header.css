@@ -75,7 +75,7 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 55vw;
+	left: 57vw;
 	top: 10vw;
 	height: 35px;
 	width: 35px;
@@ -86,7 +86,7 @@ a > img
 	left: 60vw;
 	top: 10vw;
 	height: 35px;
-	width: 35px;
+	width: 40px;
 }
   
 .sidepanel{
