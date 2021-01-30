@@ -62,7 +62,7 @@ h1
 #s4
 {
   width: 75px; height: 60px; padding-top: 18px; padding-bottom: 2vh;
-  border-style: hidden; margin-right:12.5px; margin-left: 1vw;
+  border-style: hidden; margin-right:12.5px; margin-left: 3vw;
 }
 #s4  img
 {
@@ -76,7 +76,7 @@ a > img
 #s5 img{
 	position: relative;
 	left: 55vw;
-	top: 1vw;
+	top: 5vw;
 	height: 35px;
 	width: 35px;
 }
@@ -84,7 +84,7 @@ a > img
 #s6 img{
 	position: relative;
 	left: 60vw;
-	top: 1.5vw;
+	top: 5vw;
 	height: 35px;
 	width: 35px;
 }
@@ -132,7 +132,7 @@ a > img
 	cursor: pointer;
 	background-color: #111;
 	color: white;
-	padding: 10px 15px;
+	padding: 20px 15px;
 	border: none;
 	position: relative;
 	left: 65vw;
