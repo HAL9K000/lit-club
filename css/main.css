@@ -25,9 +25,14 @@
     z-index:-0.25;
     background-repeat: no-repeat;
   }
+ #cont{
+    position: relative; background-color: #ffffff;
+    top: 0vh; clear:both; display: inline-block;
+    width:100.07%; height: 2100px;
+  } 
  #d1{
     position:absolute;display:inline-block; width:95vw; height:auto;
-    left:2.5vw; clear:both; float:left; background-color: #ffffff;
+    left:2.5vw; clear:both; float:left;
   }
   h2{
     font-family:newyorker; font-size: 28px;
@@ -48,7 +53,7 @@
 
   #d2{
     position:absolute;display:inline-block; width:95vw; height:auto;
-    left:2.5vw; top:900px; background-color: #ffffff;
+    left:2.5vw; top:900px;
   }
   #d2> div{
      display:inline-block; box-sizing: border-box;
@@ -95,7 +100,7 @@
 
   #d3{
     position:absolute;display:inline-block; width:95vw; height:auto;
-    left:2.5vw; top:1450px; background-color: #ffffff;
+    left:2.5vw; top:1450px;
   }
   #d3 article{
     display:inline-block; width:95vw;
