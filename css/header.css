@@ -75,7 +75,7 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 50vw;
+	left: 55vw;
 	top: 1vw;
 	height: 35px;
 	width: 35px;
@@ -83,7 +83,7 @@ a > img
   
 #s6 img{
 	position: relative;
-	left: 55vw;
+	left: 60vw;
 	top: 1.5vw;
 	height: 35px;
 	width: 35px;
@@ -135,7 +135,7 @@ a > img
 	padding: 10px 15px;
 	border: none;
 	position: relative;
-	left: 70vw;
+	left: 65vw;
 }
   
 .openbtn:active {
