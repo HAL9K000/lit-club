@@ -210,7 +210,7 @@ body{
 #d1{
   position: relative; background-color: #ffffff;
   top: 92.5vh; clear:both; display: inline-block;
-  width:98.7vw; height: 105vh;
+  width:98.7vw; height: 115vh;
 }
 .left{
   display:inline-block; position: absolute;
@@ -222,7 +222,7 @@ body{
 }
 #d1> section{
   display:inline-block; position: absolute;
-  width: 45vw; top: 8vh; left: 47.5vw; background-color: #ffffff;
+  width: 48vw; top: 8vh; left: 47.5vw; background-color: #ffffff;
 }
 
 h2{
