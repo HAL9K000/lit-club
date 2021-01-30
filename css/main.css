@@ -28,7 +28,7 @@
  #cont{
     position: relative; background-color: #ffffff;
     top: 0vh; clear:both; display: inline-block;
-    width:100.07%; height: 2000px;
+    width:100.07%; height: 1700px;
   } 
  #d1{
     position:absolute;display:inline-block; width:95vw; height:auto;
