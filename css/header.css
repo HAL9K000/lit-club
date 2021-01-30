@@ -66,7 +66,7 @@ h1
 }
 #s4  img
 {
-  width: 75px !important; height: 60px !important;
+  width: 60px !important; height: 50px !important;
 }
 a > img
 {
@@ -75,18 +75,18 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 60vw;
+	left: 50vw;
 	top: 1vw;
-	height: 50px;
-	width: 50px;
+	height: 35px;
+	width: 35px;
 }
   
 #s6 img{
 	position: relative;
-	left: 60vw;
+	left: 55vw;
 	top: 1.5vw;
-	height: 50px;
-	width: 50px;
+	height: 35px;
+	width: 35px;
 }
   
 .sidepanel{
