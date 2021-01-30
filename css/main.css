@@ -53,7 +53,7 @@
 
   #d2{
     position:absolute;display:inline-block; width:95vw; height:auto;
-    left:2.5vw; top:900px;
+    left:2.5vw; top:800px;
   }
   #d2> div{
      display:inline-block; box-sizing: border-box;
