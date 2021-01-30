@@ -11,17 +11,32 @@
 </head>
 <body>
   <header>
-    <span id="s1"><img src="imago/icon.png" alt="Lit Club Logo" title=";)"/></span>
-    <span id="s1alt"><img src="imago/litlogo1.png" alt="Lit Club Logo" title=";)"/></span>
-    <span id="h1"><img src="imago/header.png" alt="The Literary Club"/></span>
-    <span id="s2"><a href="http://www.iiserpune.ac.in/" target="_blank"><img src="imago/iiserpunelogo.svg" alt="IISER-P Logo" /></a></span>
-    <nav id="main-menu">
-      <a href="index.html" >Home</a>
-      <a href="events.html">Events</a>
-      <a href="quotebox.html">Quotebox</a>
-      <a href="opac.html" class = "active">OPAC</a>
-      <a href="https://www.facebook.com/litclub.iiserpune/" target="_blank"><img src="imago/fb.svg" alt="FB" title="Our FB Page"/></a>
-    </nav>
+    <span id="s1"><img src="imago/icon.png" alt="Lit Club Logo" title=";)"></span>
+    <span id="s2"><img src="imago/litlogo1.png" alt="Lit Club Logo" title=";)"></span>
+    <span id="s3"><img src="imago/header.png" alt="The Literary Club"></span>
+    <span id="s4"><a href="http://www.iiserpune.ac.in/" target="_blank"><img src="imago/iiserpunelogo.svg" alt="IISER-P Logo"></a></span>
+    <span id="s5"><a href="https://www.facebook.com/litclub.iiserpune/" target="_blank"><img src="imago/fb.svg" alt="FB" title="Our FB Page"></a></span>
+    <span id = "s6"><a href="https://www.instagram.com/litclubiiserpune/" target="_blank"><img src="imago/insta.png" alt="Insta" title = "Our Insta Page"></a></span>
+    <div id="mySidepanel" class="sidepanel">
+  			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()" id="cross">×</a>
+  			<a href="index.html">Home</a>
+  			<a href="events.html">Events</a>
+  			<a href="quotebox.html">Quotebox</a>
+  			<a href="opac.html" id="active">OPAC</a>
+  			<a href="blogs.html">Blogs of IISER-Land</a>
+  			<a href="tales.html">Tales from the Quarantine</a>
+  			<a href="verses.html">Verses from the Quarantine</a>
+	</div>
+    <button class="openbtn" onclick="openNav()">☰</button>
+    <script>
+			function openNav() {
+  				document.getElementById("mySidepanel").style.width = "250px";
+			}
+
+			function closeNav() {
+  				document.getElementById("mySidepanel").style.width = "0";
+			}
+		</script>
   </header>
 
   <main>
