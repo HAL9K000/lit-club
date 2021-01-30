@@ -75,14 +75,18 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 55vw;
+	left: 60vw;
 	top: 1vw;
+	height: 50px;
+	width: 50px;
 }
   
 #s6 img{
 	position: relative;
 	left: 60vw;
 	top: 1.5vw;
+	height: 50px;
+	width: 50px;
 }
   
 .sidepanel{
@@ -124,7 +128,7 @@ a > img
 }
   
 .openbtn {
-	font-size: 10px;
+	font-size: 15px;
 	cursor: pointer;
 	background-color: #111;
 	color: white;
