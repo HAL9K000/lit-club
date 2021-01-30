@@ -22,7 +22,7 @@ header
   position:absolute; display:inline-block;
   visibility: visible;
   width:100px; height:50px;
-  left:3vw; top:7px;
+  left:3vw; top:15px;
   margin-right:10vw;
 }
 #s2 img
@@ -75,13 +75,13 @@ a > img
   
 #s5 img{
 	position: relative;
-	left: 14vw;
+	left: 55vw;
 	top: 1vw;
 }
   
 #s6 img{
 	position: relative;
-	left: 15vw;
+	left: 60vw;
 	top: 1.5vw;
 }
   
@@ -124,17 +124,17 @@ a > img
 }
   
 .openbtn {
-	font-size: 20px;
+	font-size: 10px;
 	cursor: pointer;
 	background-color: #111;
 	color: white;
 	padding: 10px 15px;
 	border: none;
 	position: relative;
-	left: 65vw;
+	left: 70vw;
 }
   
-.openbtn:hover {
+.openbtn:active {
 	background-color:#444;
 }
 	
