@@ -186,12 +186,12 @@ header
 #s3
 {
   display:inline-block;
-  width:300px; margin-left:1vw; max-height:140px;
+  width:300px; margin-left:1vw; max-height:110px;
   margin-right:1vw; margin-top: -2.0vh; padding-bottom: 2vh;
 }
 #s3 img
 {
-  width:300px; max-height:140px;
+  width:300px; max-height:120px;
 }
 #s4
 {
