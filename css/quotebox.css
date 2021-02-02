@@ -285,7 +285,7 @@ main
 #d1
 {
   display:inline-block;
-  width:99.0vw; height:125vh;
+  width:98.7vw; height:125vh;
 }
 #d1 >section
 {
@@ -339,7 +339,7 @@ figcaption
 {
   width: 98.5vw; height:auto;
   position:absolute;
-  left:0.1vw; top: 88vh;
+  left:0.1vw; top: 100vh;
   margin-top:5vh;
 }
 a[href="https://goo.gl/forms/SuycVRKOfdV0qPc03"]
@@ -381,10 +381,10 @@ section > div >p
 
 #d2
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block; clear:both;
   position:relative;
-  top:25px;
+  top:120px;
 }
 #d2q001
 {
@@ -416,10 +416,10 @@ section > div >p
 
 #d3
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block;
   position:relative;
-  top:650px;
+  top:750px;
 }
 #d3q001
 {
@@ -440,10 +440,10 @@ section > div >p
 
 #d4
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block;
   position:relative;
-  top:970px;
+  top:1070px;
 }
 #d4q001
 {
@@ -458,10 +458,10 @@ section > div >p
 
 #d5
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block;
   position:relative;
-  top:1110px;
+  top:1210px;
 }
 #d5q001
 {
@@ -483,14 +483,14 @@ section > div >p
 }
 #d5q005
 {
-  left:20vw; top: 420px;
+  left:20vw; top: 430px;
 }
 #d6
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block;
   position:relative;
-  top:1590px;
+  top:1690px;
 }
 #d6q001
 {
@@ -520,7 +520,7 @@ section > div >p
 
 #d7
 {
-  width:99vw; height: auto;
+  width:98.7vw; height: auto;
   display:inline-block;
   position:relative;
   top:2190px;
@@ -536,7 +536,7 @@ section > div >p
 }
 #d7> p
 {
-  display:inline-block; width:99vw;
+  display:inline-block; width:98.7vw;
   color:#000000; font-size: 22px; font-family: sans-serif;
   text-align:center; position:absolute; left:0vw; top: 195px;
 }
@@ -552,7 +552,7 @@ section > div >p
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:98.7vw; height:8vh;
   position:relative;
   top:2610px;
   background-color:#000000;
