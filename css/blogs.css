@@ -16,7 +16,7 @@ main, footer
   }
 main
   {
-    height:5300px; background-color: #ffffff; z-index:0; width: 99vw;
+    height:5300px; background-color: #ffffff; z-index:0; width: 100%;
   }
 body
   {  
@@ -112,14 +112,14 @@ figcaption
 {
   dislay:inline-block;
   position:absolute;
-  left:18vw; top:4400px;
+  left:18vw; top:4200px;
   width:60vw; height:auto;
 }
 #d2> p
 {
   display:inline-block; width:99vw;
   color:#000000; font-size: 16.5px; font-family: sans-serif;
-  text-align:center; position:absolute; left:0vw; top: 4760px;
+  text-align:center; position:absolute; left:0vw; top: 4460px;
 }
 
   .Styled
