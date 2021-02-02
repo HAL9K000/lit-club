@@ -16,7 +16,7 @@ main, footer
   }
 main
   {
-    height:4100px; background-color: #ffffff; z-index:0; width: 104vw;
+    height:4600px; background-color: #ffffff; z-index:0; width: 100%;
   }
 body
   {  
@@ -29,7 +29,7 @@ body
  {
    position: relative;
    top: 0.5vh; clear:both; display: inline-block;
-   width:100vw;
+   width:99vw;
  }
  #d1 >section
 {
@@ -82,7 +82,7 @@ figcaption
  #d2
   {
     position: absolute; left:0vw; top:470px;
-    display:inline-block; width:104vw; background-color: #ffffff;
+    display:inline-block; width:99vw; background-color: #ffffff;
   }
 #d2 ul
   {
@@ -112,7 +112,7 @@ figcaption
 {
   dislay:inline-block;
   position:absolute;
-  left:18vw; top:3400px;
+  left:18vw; top:3900px;
   width:60vw; height:auto;
 }
 #d2> p
@@ -131,7 +131,7 @@ figcaption
 footer
 {
   display:inline-block;
-  width:104vw; height:8vh;
+  width:100%; height:8vh;
   position:relative;
   background-color:#000000;
   color: #8a8c87; font-size:11.5px; font-family:newyorker;
