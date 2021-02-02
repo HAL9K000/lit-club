@@ -14,7 +14,7 @@
     background-image:url(../imago/entire_gang.JPG);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: 100% auto;
-    background-position: centre center;
+    background-position: center center;
     z-index:-1;
   }
   .slideshow img
