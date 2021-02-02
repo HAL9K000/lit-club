@@ -67,7 +67,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
 
-  #d1 p.ex1
+  #ex1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -76,7 +76,7 @@ main, footer
     text-align:center; top:50vh;
   }
   
-  #d1 p.ex2
+  #ex2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -85,7 +85,7 @@ main, footer
     text-align:center; margin-top:65vh; margin-bottom:30px;
   }
   
-  #d1 p.ex3
+  #ex3
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -94,7 +94,7 @@ main, footer
     text-align:center; margin-top:80vh; margin-bottom:30px;
   }
   
-  #d1 p.ex4
+  #ex4
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -103,7 +103,7 @@ main, footer
     text-align:center; margin-top:95vh; margin-bottom:30px;
   }
   
-  #d1 p.ex5
+  #ex5
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -374,7 +374,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
 
-  #d1 p.ex1
+  #ex1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -383,7 +383,7 @@ main, footer
     text-align:center; top:40vh;
   }
   
-  #d1 p.ex2
+  #ex2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -392,7 +392,7 @@ main, footer
     text-align:center; margin-top:50vh; margin-bottom:30px;
   }
   
-  #d1 p.ex3
+  #ex3
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -401,7 +401,7 @@ main, footer
     text-align:center; margin-top:60vh; margin-bottom:30px;
   }
   
-  #d1 p.ex4
+  #ex4
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -410,7 +410,7 @@ main, footer
     text-align:center; margin-top:70vh; margin-bottom:30px;
   }
   
-  #d1 p.ex5
+  #ex5
   {
     position: absolute;
     display: inline-block; width:95vw;
