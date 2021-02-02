@@ -90,6 +90,23 @@ figcaption
     font-size: 16.5px; line-height: 19.5px; margin-left: 15vw; margin-right: 20vw; text-align: justify;
     list-style
   }
+  
+  #d2>ul>li
+  {
+  margin: 1.5vw;
+ }
+ #d2 a
+{
+  font-weight:normal;
+  color:#9e9b04; text-decoration: none;
+}
+#d2 a:visited
+{
+  color:#9e9b04;
+}
+#d2 a:hover, #d2 a:focus{
+  color: #c7c312;
+}
  
  #d2>img
 {
