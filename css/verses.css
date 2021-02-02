@@ -260,10 +260,14 @@ main, footer
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
 
-  #d1 a
+  #d1 a, #d7 a
   {
     text-decoration:none;
     color: #9e9b04;
+  }
+  #d1 a:focus, #d7 a:focus
+  {
+    color: #c7c312;
   }
   .Italic
   {
@@ -313,7 +317,7 @@ main, footer
 @media only screen and (min-width:900px)
 {
   html, body {
-      max-width: 100%;
+      max-width: 98.7vw;
 
   }
 
@@ -353,13 +357,13 @@ main, footer
 {
   position: relative; background-color: #ffffff;
   top: 10vh; clear:both; display: inline-block;
-  width:99vw; height: 4600px; z-index:0;
+  width:98.7vw; height: 4350px; z-index:0;
 }
   
 #d1 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 35px;
     color: #d0a115c7; font-style: italic;
     text-align:center; margin-top:1vh; margin-bottom:30px;
@@ -436,7 +440,7 @@ main, footer
   #d2 h3, #d3 h3, #d4 h3, #d5 h3, #d6 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 40px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:210px; margin-bottom:10px;
@@ -554,23 +558,27 @@ main, footer
   
   #d7
   {
-    position: absolute; left:4vw; top:800vh;
+    position: absolute; left:4vw; top:700vh;
     display:inline-block; width:85vw;
   }
   
   #d7 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 35px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
 
-  #d1 a
+  #d1 a, #d7 a
   {
     text-decoration:none;
     color: #9e9b04;
+  }
+  #d1 a:hover, #d7 a:hover
+  {
+    color: #c7c312;
   }
   .Italic
   {
@@ -591,7 +599,7 @@ main, footer
   footer
   {
     display:inline-block;
-    width:100vw; height:10vh;
+    width:98.7vw; height:10vh;
     position:relative;
     top:30vh;
     background-color:#000000;
