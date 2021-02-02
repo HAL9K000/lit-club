@@ -7,7 +7,7 @@
 {
   main
   {
-    position:relative; top:100vh; height:5700px;
+    position:relative; top:100vh; height:5650px;
   }
   body
   {
@@ -103,7 +103,7 @@
   }
   #d1
   {
-    width:100.07%; height:5650px; background-color: #ffffff;
+    width:100.07%; height:5750px; background-color: #ffffff;
     position:absolute; top:30vh;
   }
   #d1> img
