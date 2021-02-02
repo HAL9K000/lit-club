@@ -67,7 +67,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
 
-  #d1 p.ex1
+  #ex1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -76,7 +76,7 @@ main, footer
     text-align:center; top:50vh;
   }
   
-  #d1 p.ex2
+  #ex2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -85,7 +85,7 @@ main, footer
     text-align:center; margin-top:65vh; margin-bottom:30px;
   }
   
-  #d1 p.ex3
+  #ex3
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -192,10 +192,14 @@ main, footer
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
 
-  #d1 a
+  #d1 a, #d5 a
   {
     text-decoration:none;
     color: #9e9b04;
+  }
+  #d1 a:focus, #d5 a:focus
+  {
+    color: #c7c312;
   }
   .Italic
   {
@@ -245,7 +249,7 @@ main, footer
 @media only screen and (min-width:900px)
 {
   html, body {
-      max-width: 100%;
+      max-width: 98.7vw;
 
   }
 
@@ -285,7 +289,7 @@ main, footer
 {
   position: relative; background-color: #ffffff;
   top: 10vh; clear:both; display: inline-block;
-  width:99vw; height: 4600px; z-index:0;
+  width:98.7vw; height: 4600px; z-index:0;
 }
   
 #d1 h3
@@ -306,7 +310,7 @@ main, footer
     text-align:center; font-weight: bold; margin-top:10vh; margin-bottom:45px;
   }
 
-  #d1 p.ex1
+  #ex1
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -315,7 +319,7 @@ main, footer
     text-align:center; top:40vh;
   }
   
-  #d1 p.ex2
+  #ex2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -324,7 +328,7 @@ main, footer
     text-align:center; margin-top:50vh; margin-bottom:30px;
   }
   
-  #d1 p.ex3
+  #ex3
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -350,7 +354,7 @@ main, footer
   #d2 h3, #d3 h3, #d4 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 40px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:250px; margin-bottom:30px;
@@ -418,23 +422,27 @@ main, footer
   
   #d5
   {
-    position: absolute; left:5vw; top:1620vh;
+    position: absolute; left:5vw; top:1460vh;
     display:inline-block; width:85vw;
   }
   
   #d5 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 35px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
   }
 
-  #d1 a
+  #d1 a, #d5 a
   {
     text-decoration:none;
     color: #9e9b04;
+  }
+  #d1 a:hover, #d5 a:hover
+  {
+    color: #c7c312;
   }
   .Italic
   {
