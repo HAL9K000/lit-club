@@ -103,7 +103,7 @@
   }
   #d1
   {
-    width:100.07%; height:5950px; background-color: #ffffff;
+    width:100.07%; height:5900px; background-color: #ffffff;
     position:absolute; top:30vh;
   }
   #d1> img
@@ -280,7 +280,7 @@
     display:inline-block;
     width:100vw; height:10vh;
     position:relative;
-    top:185vh;
+    top:150vh;
     background-color:#000000;
     color: #8a8c87; font-size:11.5px; font-family:newyorker;
     text-align: center;
