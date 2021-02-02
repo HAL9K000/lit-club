@@ -11,7 +11,7 @@
   }
   body
   {
-    background-image:url(../imago/cover1alt.jpg);
+    background-image:url(../imago/entire_gang.JPG);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: 100% auto;
     background-position: top center;
@@ -59,9 +59,13 @@
   {
     top:10vh; left:0px;
   }
-  #submenu a:last-child
+  #submenu a:nth-child(4)
   {
     top:10vh; right:0vw;
+  }
+  #submenu a:last child
+  {
+    top:20vh; left:0vw;
   }
   #UpTownFunk
   {
