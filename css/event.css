@@ -306,9 +306,9 @@ main, footer
 {
   text-align:center;
   position:relative;
-  width:83%;
+  width:93%;
   top: 2.5vh;
-  left:15%;
+  left:5%;
 
 }
 #submenu >a
@@ -332,10 +332,10 @@ main, footer
   opacity: 0.9;
 }
 body
-{  background-image:url(../imago/cover2.jpg);
+{  background-image:url(../imago/entire_gang.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat; background-size: cover; background-position: center center;
-  z-index:-1;
+  z-index:-1; width: 98.7vw;
 }
 
 #UpTownFunk
@@ -369,7 +369,7 @@ body
 {
   position: relative; background-color: #ffffff;
   top: 90.5vh; clear:both; display: inline-block;
-  width:99vw; height: 4600px; z-index:0;
+  width:98.7vw; height: 5400px; z-index:0;
 }
 #d1> img
 {
@@ -403,7 +403,7 @@ img.curr, img.curr1, img.curr2
 }
 
 
-#slideshow1 img, #slideshow2 img, #slideshow3 img
+#slideshow1 img, #slideshow2 img, #slideshow3 img, #slideshow4 img
 {
   width:50vw; max-height:500px; display: none;
   position:absolute;
@@ -438,11 +438,11 @@ img.curr, img.curr1, img.curr2
 
 #d1s03
 {
-  position: absolute; left:9.5vw; top:1300px;
+  position: absolute; left:9.5vw; top:1200px;
   display:inline-block; width:80vw;
 }
 
-#d1s03 h2, #d1s04 h2, #d1s05 h2
+#d1s03 h2, #d1s04 h2, #d1s05 h2, #d1s06 h2
 {
   position: absolute;
   display: inline-block; width:80vw;
@@ -472,10 +472,10 @@ img.curr, img.curr1, img.curr2
 
 #d1s04
 {
-  position: absolute;left:9.5vw; top:2350px;
+  position: absolute;left:9.5vw; top:2150px;
   display:inline-block; width:80vw;
 }
-#slideshow2, #slideshow3
+#slideshow2, #slideshow3, #slideshow4
 {
   position: absolute;
   display:inline-block;
@@ -499,7 +499,7 @@ img.curr, img.curr1, img.curr2
 
 #d1s05
 {
-  position: absolute;left:9.5vw; top:3700px;
+  position: absolute;left:9.5vw; top:3350px;
   display:inline-block; width:80vw;
 }
 #d1s05 >div
@@ -508,6 +508,21 @@ img.curr, img.curr1, img.curr2
   top:680px;
 }
 #d1s05 p
+{
+  margin-bottom: 2vh; text-align:justify; font-family: verdana;
+  font-size: 16.5px; line-height: 19.5px;
+}
+#d1s06
+{
+  position: absolute;left:9.5vw; top:4400px;
+  display:inline-block; width:80vw;
+}
+#d1s06 >div
+{
+  position:absolute;
+  top:680px;
+}
+#d1s06 p
 {
   margin-bottom: 2vh; text-align:justify; font-family: verdana;
   font-size: 16.5px; line-height: 19.5px;
@@ -535,7 +550,7 @@ img.curr, img.curr1, img.curr2
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:98.7vw; height:8vh;
   position:relative;
   top:100vh;
   background-color:#000000;
