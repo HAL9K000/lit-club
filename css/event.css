@@ -14,7 +14,7 @@
     background-image:url(../imago/entire_gang.JPG);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: 100% auto;
-    background-position: top center;
+    background-position: centre center;
     z-index:-1;
   }
   .slideshow img
@@ -136,7 +136,7 @@
   }
 
 
-  #slideshow1 img, #slideshow2 img, #slideshow3 img
+  #slideshow1 img, #slideshow2 img, #slideshow3 img, #slideshow4 img
   {
     width:80vw; max-height:200px; display: none;
     position:absolute; z-index:0.5;
@@ -177,7 +177,7 @@
     position: absolute; left:2.5vw; top:1700px;
     display:inline-block; width:95vw;
   }
-  #d1s03 h2, #d1s04 h2, #d1s05 h2
+  #d1s03 h2, #d1s04 h2, #d1s05 h2, #d1s06 h2
   {
     position: absolute;
     display: inline-block; width:95vw;
@@ -208,7 +208,7 @@
     position: absolute; left:2.5vw; top:2750px;
     display:inline-block; width:95vw;
   }
-  #slideshow2, #slideshow3
+  #slideshow2, #slideshow3, #slideshow4
   {
     position: absolute;
     display:inline-block;
@@ -240,6 +240,22 @@
     top:330px;
   }
   #d1s05 p
+  {
+    margin-bottom: 2vh; text-align:justify; font-family: verdana;
+    font-size: 16.5px; line-height: 19.5px;
+  }
+  
+  #d1s06
+  {
+    position: absolute;left:2.5vw; top:5300px;
+    display:inline-block; width:95vw;
+  }
+  #d1s06 >div
+  {
+    position:absolute;
+    top:330px;
+  }
+  #d1s06 p
   {
     margin-bottom: 2vh; text-align:justify; font-family: verdana;
     font-size: 16.5px; line-height: 19.5px;
