@@ -11,7 +11,7 @@
   }
   body
   {
-    background-image:url(../imago/entire_gang.JPG);
+    background-image:url(../imago/cover1alt.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: 100% auto;
     background-position: center center;
@@ -231,7 +231,7 @@
   }
   #d1s05
   {
-    position: absolute;left:2.5vw; top:4800px;
+    position: absolute;left:2.5vw; top:3800px;
     display:inline-block; width:95vw;
   }
   #d1s05 >div
@@ -247,7 +247,7 @@
   
   #d1s06
   {
-    position: absolute;left:2.5vw; top:5300px;
+    position: absolute;left:2.5vw; top:5000px;
     display:inline-block; width:95vw;
   }
   #d1s06 >div
