@@ -52,7 +52,7 @@ main, footer
 #d1 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 30px;
     color: #d0a115c7; font-style: italic;
     text-align:center; margin-top:1vh; margin-bottom:30px;
@@ -111,7 +111,7 @@ main, footer
   #d2 h3, #d3 h3, #d4 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 35px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
@@ -186,7 +186,7 @@ main, footer
   #d5 h3
   {
     position: absolute;
-    display: inline-block; width:95vw;
+    display: inline-block; width:90vw;
     font-family:newyorker; font-size: 25px;
     color: #d0a115c7; font-style: italic; font-variant: small-caps;
     text-align:center; font-weight: bold; margin-top:200px; margin-bottom:30px;
