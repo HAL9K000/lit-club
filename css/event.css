@@ -332,7 +332,7 @@ main, footer
   opacity: 0.9;
 }
 body
-{  background-image:url(../imago/entire_gang.jpg);
+{  background-image:url(../imago/entire_gang.JPG);
   background-attachment: fixed;
   background-repeat: no-repeat; background-size: cover; background-position: center center;
   z-index:-1; width: 98.7vw;
