@@ -224,7 +224,7 @@ footer>p>img
   }
   #submenu
   {
-    position: relative; top:-95.5vh;
+    position: relative; top:-92.5vh;
     left:38vw; display: inline-block;
   }
 
@@ -253,7 +253,7 @@ footer>p>img
   {
     position: relative;
     top: 0.5vh; clear:both; display: inline-block;
-    width:99vw;
+    width:98.7vw;
   }
   #d1> img
   {
@@ -400,7 +400,7 @@ footer>p>img
 footer
 {
   display:inline-block;
-  width:99vw; height:8vh;
+  width:98.7vw; height:8vh;
   position:relative;
   bottom:0px;
   background-color:#000000;
