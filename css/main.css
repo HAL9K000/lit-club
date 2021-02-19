@@ -70,14 +70,14 @@
   }
   #events>span:nth-child(1){
     position:absolute;
-    left: 5vw; top:20px;
+    left: 5vw; top:10px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:20px;
   }
   #events>span:nth-child(2){
     position:absolute;
-    left: 5vw; top:60px;
+    left: 5vw; top:50px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:15px;
@@ -85,7 +85,14 @@
   
   #events>span:nth-child(3){
     position:absolute;
-    left: 5vw; top:80px;
+    left: 5vw; top:70px;
+    width: 80vw; height:auto;
+    text-align:center;
+    font-family:sans-serif; font-size:17px;
+  }
+#events>span:nth-child(4){
+    position:absolute;
+    left: 5vw; top:90px;
     width: 80vw; height:auto;
     text-align:center;
     font-family:sans-serif; font-size:17px;
