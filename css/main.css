@@ -231,7 +231,7 @@ h2{
 }
 #events >span:nth-child(1){
   position:absolute;
-  left: 2vw; top:3vh;
+  left: 2vw; top:2vh;
   width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:16px;
@@ -239,7 +239,7 @@ h2{
 
 #events >span:nth-child(2){
   position:absolute;
-  left: 2vw; top:7vh;
+  left: 2vw; top:6vh;
   width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:15px;
@@ -247,7 +247,14 @@ h2{
 
 #events>span:nth-child(3){
   position:absolute;
-  left: 2vw; top:12vh;
+  left: 2vw; top:10vh;
+  width: 40vw; height:6vh;
+  text-align:center;
+  font-family:verdana; font-size:15px;
+}
+#events>span:nth-child(4){
+  position:absolute;
+  left: 2vw; top:14vh;
   width: 40vw; height:6vh;
   text-align:center;
   font-family:verdana; font-size:15px;
